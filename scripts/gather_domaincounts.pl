@@ -85,11 +85,11 @@ if( $out ) {
 } else {
  $outfh = \*STDOUT;
 }
-print $outfh join(",", qw(DOMAIN), @species), "\n";
+print $outfh join("\t", qw(DOMAIN), @species), "\n";
 
 # sort by copy number later so abundant one come first?
 for my $d ( sort keys %table ) {
- print $outfh join(",",$d, map { scalar @{$table{$d}->{$_} || []} } @species), "\n";
+ print $outfh join("\t",$d, map { scalar @{$table{$d}->{$_} || []} } @species), "\n";
  if( $db ) {
    my $outseq = Bio::SeqIO->new(-format => 'fasta', -file => ">$domaindir/$d.fas");
    while ( my ($sp,$domainobs) = each %{$table{$d}} ) { # process domain/species pair data
