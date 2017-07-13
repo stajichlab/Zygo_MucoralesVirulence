@@ -1,0 +1,21 @@
+#                                                                                                 --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                             accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#                     ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Hesve2finisherSC|Hesve2finisherSC_1366842 -            583 CotH_genes           -            603  1.4e-247  822.5   7.5   1   1  1.1e-250  1.6e-247  822.3   7.5     1   572     1   567     1   579 0.94 estExt_fgenesh1_pm.C_110035
+Hesve2finisherSC|Hesve2finisherSC_317269  -            560 CotH_genes           -            603  1.7e-206  686.8   6.5   1   1  1.4e-209    2e-206  686.6   6.5    14   533    12   526     1   556 0.93 Hesve1.fgenesh1_pm.2_#_6
+Hesve2finisherSC|Hesve2finisherSC_1397602 -            529 CotH_genes           -            603  7.3e-201  668.2   4.2   1   1    7e-204  9.8e-201  667.8   4.2    17   527    17   523     2   525 0.94 MIX10210_8_41
+Hesve2finisherSC|Hesve2finisherSC_1364539 -            588 CotH_genes           -            603   1.8e-49  168.2  12.6   1   1   2.9e-52     4e-49  167.0  12.6    18   529     4   516     1   587 0.72 fgenesh1_pm.40_#_35
+Hesve2finisherSC|Hesve2finisherSC_1307194 -            562 CotH_genes           -            603   4.1e-43  147.2   0.5   1   1   3.9e-46   5.4e-43  146.8   0.5     5   475    10   477     6   497 0.84 estExt_Genewise1.C_190222
+Hesve2finisherSC|Hesve2finisherSC_1389469 -            564 CotH_genes           -            603   9.5e-36  122.9   3.3   1   1   9.1e-37   1.3e-33  115.8   3.3    16   485     8   481     4   526 0.78 MIX2077_4_16
+Hesve2finisherSC|Hesve2finisherSC_1294353 -            472 CotH_genes           -            603   7.1e-30  103.5   5.1   1   1   6.8e-33   9.5e-30  103.0   5.1   123   490    18   394    12   413 0.87 e_gw1.41.165.1
+Hesve2finisherSC|Hesve2finisherSC_1291571 -            538 CotH_genes           -            603   1.1e-29  102.9   2.1   1   1   1.1e-32   1.6e-29  102.3   2.1    72   482    36   458     7   478 0.82 e_gw1.27.184.1
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      HMM/CotH.hmm
+# Target file:     proteins/Hesseltinella_vesiculosa_NRRL_3301.Hesve2finisherSC.v2.aa.fasta
+# Option settings: hmmsearch --domtblout results/CotH__Hesseltinella_vesiculosa_NRRL_3301.Hesve2finisherSC.v2.aa.domtbl -E 1e-4 --cpu 4 HMM/CotH.hmm proteins/Hesseltinella_vesiculosa_NRRL_3301.Hesve2finisherSC.v2.aa.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Mucorales_Virulence/CotH
+# Date:            Wed Jul 12 19:55:41 2017
+# [ok]

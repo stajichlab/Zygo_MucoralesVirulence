@@ -1,0 +1,15 @@
+#                                                                                      --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                  accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#          ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Basme2finSC|Basme2finSC_317475 -            586 CotH_genes           -            603   4.9e-63  213.5   0.7   1   1   7.2e-67   5.8e-63  213.3   0.7    13   558    15   560     1   584 0.80 fgenesh1_kg.339_#_2_#_Locus3143v1rpkm54.68
+Basme2finSC|Basme2finSC_194809 -            447 CotH_genes           -            603   1.1e-51  176.1   0.2   1   1   1.6e-55   1.3e-51  175.8   0.2    74   494     1   417     1   443 0.85 gw1.737.16.1
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      HMM/CotH.hmm
+# Target file:     proteins/Basidiobolus_meristosporus_CBS_931.73.Basme2finSC.v1.aa.fasta
+# Option settings: hmmsearch --domtblout results/CotH__Basidiobolus_meristosporus_CBS_931.73.Basme2finSC.v1.aa.domtbl -E 1e-4 --cpu 4 HMM/CotH.hmm proteins/Basidiobolus_meristosporus_CBS_931.73.Basme2finSC.v1.aa.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Mucorales_Virulence/CotH
+# Date:            Wed Jul 12 19:55:35 2017
+# [ok]

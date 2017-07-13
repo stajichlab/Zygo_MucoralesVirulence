@@ -1,0 +1,20 @@
+#                                                                              --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name          accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#  ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Mormul1|Mormul1_391514 -            592 CotH_genes           -            603  8.2e-255  846.5  10.5   1   1  5.6e-258  9.9e-255  846.2  10.5     2   566     2   558     1   585 0.94 e_gw1.3.305.1
+Mormul1|Mormul1_444447 -            608 CotH_genes           -            603     8e-61  205.8   7.2   1   1   5.5e-64   9.6e-61  205.6   7.2    15   559    13   570     1   597 0.82 fgenesh1_kg.16_#_346_#_TRINITY_DN6948_c0_g1_i4
+Mormul1|Mormul1_456500 -            545 CotH_genes           -            603   5.3e-57  193.2   2.9   1   1   3.5e-60   6.1e-57  193.0   2.9     1   525     1   537     1   543 0.80 fgenesh1_kg.47_#_219_#_TRINITY_DN4214_c0_g2_i1
+Mormul1|Mormul1_444445 -            711 CotH_genes           -            603   1.2e-53  182.1  12.1   1   1   9.3e-57   1.6e-53  181.7  12.1    14   494   126   623   113   689 0.80 fgenesh1_kg.16_#_344_#_TRINITY_DN9004_c0_g1_i2
+Mormul1|Mormul1_286829 -            600 CotH_genes           -            603   2.3e-51  174.6   3.1   1   1   2.1e-54   3.7e-51  173.9   3.1    34   589     4   584     2   599 0.74 CE286828_8003
+Mormul1|Mormul1_78629  -            327 CotH_genes           -            603   2.2e-25   88.8   1.4   1   1   1.7e-28   2.9e-25   88.4   1.4    12   240    48   284    38   289 0.80 CE78628_44020
+Mormul1|Mormul1_444434 -            338 CotH_genes           -            603   6.7e-24   83.9   0.7   1   1   4.2e-27   7.3e-24   83.7   0.7   334   572    91   323     1   333 0.74 fgenesh1_kg.16_#_333_#_TRINITY_DN9004_c1_g3_i1
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      HMM/CotH.hmm
+# Target file:     proteins/Mortierella_multidivaricata_RSA_2152T.Mormul1.v1.aa.fasta
+# Option settings: hmmsearch --domtblout results/CotH__Mortierella_multidivaricata_RSA_2152T.Mormul1.v1.aa.domtbl -E 1e-4 --cpu 4 HMM/CotH.hmm proteins/Mortierella_multidivaricata_RSA_2152T.Mormul1.v1.aa.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Mucorales_Virulence/CotH
+# Date:            Wed Jul 12 19:55:56 2017
+# [ok]

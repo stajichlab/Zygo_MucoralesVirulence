@@ -1,0 +1,25 @@
+#                                                                                       --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                   accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#           ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+MwolNRRL_66265|ctg_461.g7982.t1 -            593 CotH_genes           -            603  3.8e-234  777.8   7.9   1   1    6e-237  4.4e-234  777.6   7.9     2   559     2   559     1   590 0.94 -
+MwolNRRL_66265|ctg_238.g6068.t1 -            607 CotH_genes           -            603   3.1e-67  226.5   4.7   1   1   5.6e-70   4.1e-67  226.1   4.7     5   529     6   538     2   592 0.80 -
+MwolNRRL_66265|ctg_238.g6069.t1 -            599 CotH_genes           -            603   6.6e-66  222.1  10.8   1   1   1.2e-68   8.4e-66  221.8  10.8     6   524     8   534     2   580 0.81 -
+MwolNRRL_66265|ctg_93.g3593.t1  -            540 CotH_genes           -            603   2.2e-59  200.6  10.0   1   1   3.5e-62   2.6e-59  200.3  10.0     1   522     1   533     1   539 0.84 -
+MwolNRRL_66265|ctg_101.g3780.t1 -            639 CotH_genes           -            603   2.8e-59  200.3   1.2   1   1   5.4e-62   3.9e-59  199.8   1.2    17   581    16   589     2   603 0.82 -
+MwolNRRL_66265|ctg_125.g4287.t1 -            542 CotH_genes           -            603   1.2e-57  194.8   7.0   1   1     2e-60   1.4e-57  194.6   7.0     1   500     1   516     1   540 0.82 -
+MwolNRRL_66265|ctg_379.g7439.t1 -            539 CotH_genes           -            603   4.1e-56  189.8   4.3   1   1   7.3e-59   5.4e-56  189.4   4.3    11   491    13   509     3   520 0.84 -
+MwolNRRL_66265|ctg_411.g7655.t1 -            535 CotH_genes           -            603     5e-52  176.3   1.8   1   1   8.7e-55   6.4e-52  175.9   1.8    14   479    14   494     2   508 0.85 -
+MwolNRRL_66265|ctg_238.g6070.t1 -            606 CotH_genes           -            603   1.4e-51  174.8   3.3   1   1   2.5e-54   1.9e-51  174.4   3.3     6   541     8   556     1   603 0.72 -
+MwolNRRL_66265|ctg_2.g183.t1    -            580 CotH_genes           -            603   1.8e-50  171.1   2.6   1   1   8.4e-53   6.2e-50  169.4   2.6     1   488     1   544     1   552 0.78 -
+MwolNRRL_66265|ctg_156.g4871.t1 -            549 CotH_genes           -            603   1.5e-44  151.6   0.2   1   1   2.6e-47   1.9e-44  151.2   0.2    16   492     8   511     2   544 0.80 -
+MwolNRRL_66265|ctg_343.g7164.t1 -            612 CotH_genes           -            603   3.6e-42  143.7   0.3   1   1   6.1e-45   4.5e-42  143.4   0.3     3   534     4   558     1   605 0.77 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      HMM/CotH.hmm
+# Target file:     proteins/Mortierella_wolfii_NRRL_66265.aa.fasta
+# Option settings: hmmsearch --domtblout results/CotH__Mortierella_wolfii_NRRL_66265.aa.domtbl -E 1e-4 --cpu 4 HMM/CotH.hmm proteins/Mortierella_wolfii_NRRL_66265.aa.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Mucorales_Virulence/CotH
+# Date:            Wed Jul 12 19:56:04 2017
+# [ok]

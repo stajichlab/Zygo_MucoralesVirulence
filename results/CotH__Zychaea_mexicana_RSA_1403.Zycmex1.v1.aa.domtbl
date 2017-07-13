@@ -1,0 +1,32 @@
+#                                                                              --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name          accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#  ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Zycmex1|Zycmex1_766759 -            639 CotH_genes           -            603  1.1e-262  872.7   6.3   1   1  1.6e-265  1.5e-262  872.3   6.3     3   584    13   587    11   608 0.93 e_gw1.56.140.1
+Zycmex1|Zycmex1_754563 -            625 CotH_genes           -            603  1.8e-242  806.0   8.0   1   1  2.3e-245  2.1e-242  805.7   8.0     7   571     6   568     1   593 0.94 e_gw1.4.306.1
+Zycmex1|Zycmex1_755097 -            548 CotH_genes           -            603   8.5e-52  176.2   7.2   1   1   1.2e-54   1.1e-51  175.8   7.2    73   548     9   493     2   544 0.77 e_gw1.5.303.1
+Zycmex1|Zycmex1_800536 -            615 CotH_genes           -            603   4.4e-51  173.8   7.5   1   1   6.6e-54   6.2e-51  173.4   7.5    13   596    19   608     4   613 0.77 fgenesh1_kg.5_#_892_#_TRINITY_DN9003_c0_g1_i1
+Zycmex1|Zycmex1_878543 -            610 CotH_genes           -            603   2.6e-46  158.0   0.4   1   1   3.7e-49   3.4e-46  157.7   0.4     8   529    16   553    10   584 0.80 gm1.12241_g
+Zycmex1|Zycmex1_942945 -            666 CotH_genes           -            603   4.1e-45  154.1   3.9   1   1   8.9e-48   8.3e-45  153.1   3.9    14   533    26   582    14   654 0.74 estExt_fgenesh1_pg.C_1390015
+Zycmex1|Zycmex1_931836 -            571 CotH_genes           -            603   3.9e-40  137.7   4.0   1   1   5.8e-43   5.4e-40  137.2   4.0    11   477    20   507     9   513 0.83 estExt_Genemark1.C_840023
+Zycmex1|Zycmex1_874567 -            549 CotH_genes           -            603   2.6e-39  135.0   1.4   1   1   3.8e-42   3.5e-39  134.5   1.4    20   473     8   477     3   546 0.83 gm1.8265_g
+Zycmex1|Zycmex1_783865 -            523 CotH_genes           -            603   1.1e-37  129.6   4.5   1   1   1.6e-40   1.5e-37  129.1   4.5    50   486    19   455     2   470 0.86 fgenesh1_pg.4_#_181
+Zycmex1|Zycmex1_743659 -            456 CotH_genes           -            603   1.9e-35  122.2   2.7   1   1   2.5e-38   2.3e-35  121.9   2.7    46   472    15   450     1   453 0.79 gw1.4.348.1
+Zycmex1|Zycmex1_734237 -            408 CotH_genes           -            603   4.2e-30  104.5   0.4   1   1   7.8e-33   7.3e-30  103.8   0.4    90   473     2   405     1   407 0.78 gw1.1.253.1
+Zycmex1|Zycmex1_965784 -            552 CotH_genes           -            603   4.6e-29  101.1   1.6   1   2   1.2e-31   1.1e-28   99.9   0.6    72   480    55   474    22   483 0.82 estExt_Genewise1Plus.C_1650012
+Zycmex1|Zycmex1_965784 -            552 CotH_genes           -            603   4.6e-29  101.1   1.6   2   2      0.28   2.6e+02   -0.5   0.0   509   530   528   549   517   551 0.85 estExt_Genewise1Plus.C_1650012
+Zycmex1|Zycmex1_866372 -            538 CotH_genes           -            603   6.1e-21   74.3   3.6   1   2   1.3e-22   1.2e-19   70.0   3.1    46   366    28   367     7   372 0.74 gm1.70_g
+Zycmex1|Zycmex1_866372 -            538 CotH_genes           -            603   6.1e-21   74.3   3.6   2   2     0.033        31    2.6   0.0   408   474   387   452   373   476 0.87 gm1.70_g
+Zycmex1|Zycmex1_325489 -            404 CotH_genes           -            603   1.2e-20   73.4  10.7   1   3   7.4e-13   6.9e-10   37.8   0.0   202   259    13    70     3   111 0.78 CE325488_638
+Zycmex1|Zycmex1_325489 -            404 CotH_genes           -            603   1.2e-20   73.4  10.7   2   3      0.62   5.8e+02   -1.6   0.3   555   576   136   157    92   171 0.62 CE325488_638
+Zycmex1|Zycmex1_325489 -            404 CotH_genes           -            603   1.2e-20   73.4  10.7   3   3   1.4e-13   1.3e-10   40.2   3.0   330   474   187   327   162   337 0.89 CE325488_638
+Zycmex1|Zycmex1_813789 -            313 CotH_genes           -            603   5.1e-14   51.4   0.7   1   1   6.7e-17   6.3e-14   51.1   0.7   290   517    37   259     6   278 0.75 fgenesh1_kg.20_#_435_#_TRINITY_DN12287_c0_g1_i1
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      HMM/CotH.hmm
+# Target file:     proteins/Zychaea_mexicana_RSA_1403.Zycmex1.v1.aa.fasta
+# Option settings: hmmsearch --domtblout results/CotH__Zychaea_mexicana_RSA_1403.Zycmex1.v1.aa.domtbl -E 1e-4 --cpu 4 HMM/CotH.hmm proteins/Zychaea_mexicana_RSA_1403.Zycmex1.v1.aa.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Mucorales_Virulence/CotH
+# Date:            Wed Jul 12 19:56:19 2017
+# [ok]

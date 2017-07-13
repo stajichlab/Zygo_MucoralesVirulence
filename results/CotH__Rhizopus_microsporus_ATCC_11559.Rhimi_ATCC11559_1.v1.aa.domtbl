@@ -1,0 +1,31 @@
+#                                                                                                  --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                              accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#                      ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Rhimi_ATCC11559_1|Rhimi_ATCC11559_1_198855 -            604 CotH_genes           -            603         0 1100.9  16.6   1   1         0         0 1100.6  16.6     1   602     1   601     1   602 0.97 estExt_Genewise1.C_720026
+Rhimi_ATCC11559_1|Rhimi_ATCC11559_1_195740 -            588 CotH_genes           -            603  1.2e-274  911.9  13.0   1   1  2.1e-277  1.5e-274  911.6  13.0     1   584     1   578     1   584 0.95 estExt_Genewise1.C_330099
+Rhimi_ATCC11559_1|Rhimi_ATCC11559_1_229010 -            526 CotH_genes           -            603  1.5e-222  739.8   9.6   1   1  2.4e-225  1.7e-222  739.7   9.6     8   529     8   524     1   525 0.96 fgenesh1_kg.191_#_5_#_c7915_g1_i1
+Rhimi_ATCC11559_1|Rhimi_ATCC11559_1_238363 -            619 CotH_genes           -            603   6.2e-60  202.8  17.2   1   1     1e-62   7.1e-60  202.6  17.2     1   598     1   612     1   618 0.77 fgenesh1_pg.211_#_4
+Rhimi_ATCC11559_1|Rhimi_ATCC11559_1_275857 -            576 CotH_genes           -            603   5.3e-55  186.5   8.1   1   1   9.1e-58   6.4e-55  186.2   8.1     5   528    25   556    18   569 0.85 MIX6364_298_67
+Rhimi_ATCC11559_1|Rhimi_ATCC11559_1_270203 -            589 CotH_genes           -            603   5.6e-46  156.7   4.3   1   1   1.1e-48   7.5e-46  156.3   4.3    16   474    21   483     4   495 0.85 MIX710_342_88
+Rhimi_ATCC11559_1|Rhimi_ATCC11559_1_255846 -            593 CotH_genes           -            603   6.2e-46  156.5   6.5   1   1   1.3e-48   9.4e-46  155.9   6.5    17   473    24   481     5   489 0.88 estExt_fgenesh1_pg.C_870030
+Rhimi_ATCC11559_1|Rhimi_ATCC11559_1_248176 -            595 CotH_genes           -            603   4.7e-45  153.6   4.5   1   1   9.4e-48   6.6e-45  153.1   4.5    16   473    24   483     4   492 0.85 estExt_fgenesh1_pm.C_280005
+Rhimi_ATCC11559_1|Rhimi_ATCC11559_1_291778 -            593 CotH_genes           -            603   1.5e-44  152.0   4.6   1   1   3.1e-47   2.2e-44  151.4   4.6    17   472    23   482     5   492 0.86 estExt_Genemark1.C_1070010
+Rhimi_ATCC11559_1|Rhimi_ATCC11559_1_199883 -            592 CotH_genes           -            603   1.6e-41  141.9   4.7   1   1     3e-44   2.1e-41  141.5   4.7    29   473    40   484     7   491 0.84 estExt_Genewise1.C_870079
+Rhimi_ATCC11559_1|Rhimi_ATCC11559_1_288357 -            567 CotH_genes           -            603   1.9e-39  135.1   1.2   1   1   3.5e-42   2.5e-39  134.7   1.2     3   473     4   486     1   492 0.83 estExt_Genemark1.C_130033
+Rhimi_ATCC11559_1|Rhimi_ATCC11559_1_259388 -            578 CotH_genes           -            603   3.6e-37  127.6   8.2   1   1   6.4e-40   4.6e-37  127.2   8.2    74   487    91   507    11   516 0.81 gm1.126_g
+Rhimi_ATCC11559_1|Rhimi_ATCC11559_1_193579 -            511 CotH_genes           -            603   1.3e-36  125.8   5.2   1   1   2.5e-39   1.8e-36  125.3   5.2    52   477    21   454     2   467 0.79 estExt_Genewise1.C_130089
+Rhimi_ATCC11559_1|Rhimi_ATCC11559_1_193462 -            595 CotH_genes           -            603   2.2e-33  115.1   3.5   1   1   4.3e-36   3.1e-33  114.6   3.5    18   473    27   500    12   513 0.77 estExt_Genewise1.C_120120
+Rhimi_ATCC11559_1|Rhimi_ATCC11559_1_224856 -            606 CotH_genes           -            603   3.1e-29  101.4   5.6   1   2   8.4e-21   5.9e-18   64.1   0.0    14   283    21   304     7   312 0.79 fgenesh1_kg.16_#_6_#_c1072_g1_i2
+Rhimi_ATCC11559_1|Rhimi_ATCC11559_1_224856 -            606 CotH_genes           -            603   3.1e-29  101.4   5.6   2   2   9.1e-13   6.5e-10   37.6   3.4   330   475   377   527   343   548 0.84 fgenesh1_kg.16_#_6_#_c1072_g1_i2
+Rhimi_ATCC11559_1|Rhimi_ATCC11559_1_284317 -            461 CotH_genes           -            603   1.3e-14   53.1   6.4   1   2   2.5e-16   1.8e-13   49.3   3.6   121   369    66   315    60   322 0.83 MIX14824_5_22
+Rhimi_ATCC11559_1|Rhimi_ATCC11559_1_284317 -            461 CotH_genes           -            603   1.3e-14   53.1   6.4   2   2    0.0088       6.3    4.6   0.1   409   475   321   386   314   432 0.83 MIX14824_5_22
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      HMM/CotH.hmm
+# Target file:     proteins/Rhizopus_microsporus_ATCC_11559.Rhimi_ATCC11559_1.v1.aa.fasta
+# Option settings: hmmsearch --domtblout results/CotH__Rhizopus_microsporus_ATCC_11559.Rhimi_ATCC11559_1.v1.aa.domtbl -E 1e-4 --cpu 4 HMM/CotH.hmm proteins/Rhizopus_microsporus_ATCC_11559.Rhimi_ATCC11559_1.v1.aa.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Mucorales_Virulence/CotH
+# Date:            Wed Jul 12 19:56:10 2017
+# [ok]

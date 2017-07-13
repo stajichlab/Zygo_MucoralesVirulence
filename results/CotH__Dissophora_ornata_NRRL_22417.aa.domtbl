@@ -1,0 +1,16 @@
+#                                                                                       --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                   accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#           ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+DornNRRL_22417|ctg_73.g1743.t1  -            593 CotH_genes           -            603   4.1e-57  193.6   8.5   1   1   1.2e-60     5e-57  193.3   8.5    15   528    15   535     1   589 0.76 -
+DornNRRL_22417|ctg_734.g7503.t1 -            663 CotH_genes           -            603   5.1e-57  193.3   5.3   1   1   2.1e-60   8.7e-57  192.5   5.3    13   573    12   585     1   644 0.77 -
+DornNRRL_22417|ctg_73.g1741.t1  -            598 CotH_genes           -            603   1.4e-53  181.9  14.1   1   1   4.1e-57   1.7e-53  181.6  14.1    11   548    13   566     1   590 0.78 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      HMM/CotH.hmm
+# Target file:     proteins/Dissophora_ornata_NRRL_22417.aa.fasta
+# Option settings: hmmsearch --domtblout results/CotH__Dissophora_ornata_NRRL_22417.aa.domtbl -E 1e-4 --cpu 4 HMM/CotH.hmm proteins/Dissophora_ornata_NRRL_22417.aa.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Mucorales_Virulence/CotH
+# Date:            Wed Jul 12 19:55:38 2017
+# [ok]

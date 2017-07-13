@@ -1,0 +1,22 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Morel2|Morel2_145021 -            583 CotH_genes           -            603  2.1e-226  752.9   3.4   1   1  1.5e-229  2.6e-226  752.7   3.4     2   543     2   539     1   547 0.97 Morel1.fgenesh1_pm.13_#_52
+Morel2|Morel2_32996  -            617 CotH_genes           -            603   1.1e-65  222.1   4.9   1   1     8e-69   1.3e-65  221.9   4.9    13   545    11   561     1   610 0.80 Morel1.estExt_Genemark1.C_350118
+Morel2|Morel2_138651 -            609 CotH_genes           -            603   1.4e-61  208.6  12.8   1   1     1e-64   1.7e-61  208.3  12.8     9   569     9   587     1   605 0.75 Morel1.fgenesh1_kg.35_#_87_#_Locus898v1rpkm247.83
+Morel2|Morel2_68713  -            598 CotH_genes           -            603   2.3e-61  207.9   2.1   1   1   1.8e-64   3.1e-61  207.5   2.1    36   594     2   587     1   597 0.79 Morel1.e_gw1.9.461.1
+Morel2|Morel2_26400  -            626 CotH_genes           -            603   6.4e-61  206.4   7.2   1   1   4.5e-64   7.6e-61  206.2   7.2    11   494    11   516     1   565 0.79 Morel1.gm1.14099_g
+Morel2|Morel2_127534 -            603 CotH_genes           -            603   8.3e-61  206.0   7.1   1   1   6.1e-64     1e-60  205.8   7.1     5   569     3   580     1   597 0.82 Morel1.fgenesh1_pg.45_#_41
+Morel2|Morel2_138653 -            598 CotH_genes           -            603   6.4e-58  196.5   7.5   1   1   4.5e-61   7.6e-58  196.3   7.5     8   568     8   582     1   594 0.78 Morel1.fgenesh1_kg.35_#_89_#_Locus3241v1rpkm64.78
+Morel2|Morel2_127628 -            542 CotH_genes           -            603   2.6e-57  194.5   4.4   1   1   1.9e-60   3.1e-57  194.2   4.4     1   495     1   516     1   539 0.80 Morel1.fgenesh1_pg.46_#_46
+Morel2|Morel2_23101  -            605 CotH_genes           -            603   3.9e-49  167.5   0.5   1   1     3e-52   5.1e-49  167.1   0.5    35   496    38   514     6   551 0.82 Morel1.gm1.10800_g
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      HMM/CotH.hmm
+# Target file:     proteins/Mortierella_elongata_AG-77.Morel1.v2.aa.fasta
+# Option settings: hmmsearch --domtblout results/CotH__Mortierella_elongata_AG-77.Morel1.v2.aa.domtbl -E 1e-4 --cpu 4 HMM/CotH.hmm proteins/Mortierella_elongata_AG-77.Morel1.v2.aa.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Mucorales_Virulence/CotH
+# Date:            Wed Jul 12 19:55:49 2017
+# [ok]

@@ -1,0 +1,22 @@
+#                                                                                   --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name               accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#       ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+MspPMI86|ctg_1322.g9310.t1  -            595 CotH_genes           -            603  4.5e-228  758.8   1.7   1   1  2.5e-231  5.4e-228  758.6   1.7     2   570     2   566     1   593 0.93 -
+MspPMI86|ctg_1222.g8945.t1  -            616 CotH_genes           -            603   2.5e-66  224.6   6.1   1   1   1.6e-69   3.3e-66  224.2   6.1    13   547    11   563     2   611 0.79 -
+MspPMI86|ctg_1573.g10063.t1 -            633 CotH_genes           -            603   2.7e-64  217.9   1.8   1   1     2e-67   4.3e-64  217.2   1.8    14   594    13   623     2   632 0.77 -
+MspPMI86|ctg_899.g7538.t1   -            602 CotH_genes           -            603   1.5e-60  205.5   7.1   1   1   8.7e-64   1.8e-60  205.3   7.1     5   569     3   580     1   597 0.81 -
+MspPMI86|ctg_1222.g8946.t1  -            602 CotH_genes           -            603   7.7e-60  203.2  12.6   1   1   4.3e-63   9.3e-60  202.9  12.6     9   539     9   556     1   594 0.76 -
+MspPMI86|ctg_1983.g11119.t1 -            541 CotH_genes           -            603   3.8e-57  194.3   4.3   1   1   2.2e-60   4.6e-57  194.0   4.3     1   495     1   516     1   539 0.80 -
+MspPMI86|ctg_2329.g11803.t1 -            565 CotH_genes           -            603   1.3e-54  185.9   8.3   1   1   7.3e-58   1.6e-54  185.7   8.3    39   568     8   550     1   562 0.77 -
+MspPMI86|ctg_632.g6103.t1   -            610 CotH_genes           -            603   1.1e-49  169.7   0.3   1   1   7.2e-53   1.5e-49  169.2   0.3     9   496    11   520     4   567 0.81 -
+MspPMI86|ctg_3621.g13606.t1 -            371 CotH_genes           -            603     3e-05   22.9   2.1   1   1   2.1e-08   4.4e-05   22.4   2.1   211   393    44   212    14   217 0.81 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      HMM/CotH.hmm
+# Target file:     proteins/Mortierella_sp_PMI86.aa.fasta
+# Option settings: hmmsearch --domtblout results/CotH__Mortierella_sp_PMI86.aa.domtbl -E 1e-4 --cpu 4 HMM/CotH.hmm proteins/Mortierella_sp_PMI86.aa.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Mucorales_Virulence/CotH
+# Date:            Wed Jul 12 19:56:02 2017
+# [ok]

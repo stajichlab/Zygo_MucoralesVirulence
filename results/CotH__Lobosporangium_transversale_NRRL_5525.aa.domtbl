@@ -1,0 +1,19 @@
+#                                                                                       --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                   accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#           ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+EtraNRRL_5525|ctg_14.g168.t1    -            593 CotH_genes           -            603   4.1e-59  199.6   7.1   1   1   3.5e-62   5.1e-59  199.4   7.1     8   562     8   572     1   587 0.79 -
+EtraNRRL_5525|ctg_14.g170.t1    -            604 CotH_genes           -            603   9.3e-56  188.6   9.2   1   1   8.8e-59   1.3e-55  188.1   9.2     9   546    11   562     4   599 0.75 -
+EtraNRRL_5525|ctg_2299.g6233.t1 -            558 CotH_genes           -            603   8.7e-52  175.5   0.4   1   1   8.1e-55   1.2e-51  175.1   0.4    74   594    14   541     5   554 0.81 -
+EtraNRRL_5525|ctg_3939.g7652.t1 -            532 CotH_genes           -            603   4.3e-51  173.1   0.8   1   1   3.6e-54   5.1e-51  172.9   0.8    28   510     9   502     1   528 0.82 -
+EtraNRRL_5525|ctg_701.g3357.t1  -            945 CotH_genes           -            603   1.3e-22   79.1   0.4   1   1   1.5e-25   2.1e-22   78.4   0.4    20   231   722   941   716   945 0.81 -
+EtraNRRL_5525|ctg_1494.g5104.t1 -            335 CotH_genes           -            603   5.2e-13   47.4   0.0   1   1   4.4e-16   6.3e-13   47.1   0.0   379   567   124   307   118   335 0.75 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      HMM/CotH.hmm
+# Target file:     proteins/Lobosporangium_transversale_NRRL_5525.aa.fasta
+# Option settings: hmmsearch --domtblout results/CotH__Lobosporangium_transversale_NRRL_5525.aa.domtbl -E 1e-4 --cpu 4 HMM/CotH.hmm proteins/Lobosporangium_transversale_NRRL_5525.aa.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Mucorales_Virulence/CotH
+# Date:            Wed Jul 12 19:55:44 2017
+# [ok]

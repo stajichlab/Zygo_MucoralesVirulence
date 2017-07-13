@@ -1,0 +1,25 @@
+#                                                                                    --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#        ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+MgloAD054|ctg_108.g1798.t1   -            594 CotH_genes           -            603  6.4e-244  810.5   9.9   1   1  7.8e-247  7.8e-244  810.2   9.9     1   554     1   555     1   579 0.95 -
+MgloAD054|ctg_166.g2474.t1   -            527 CotH_genes           -            603  2.2e-227  755.9   8.8   1   1  2.4e-230  2.4e-227  755.7   8.8     1   531     1   525     1   527 0.98 -
+MgloAD054|ctg_365.g4277.t1   -           1261 CotH_genes           -            603   1.3e-58  198.5   0.4   1   1   2.2e-61   2.2e-58  197.7   0.4    16   529    15   543     3   617 0.78 -
+MgloAD054|ctg_320.g3914.t1   -            597 CotH_genes           -            603   8.1e-56  189.2  10.9   1   1   1.1e-58   1.1e-55  188.9  10.9    11   498    14   515     4   584 0.80 -
+MgloAD054|ctg_771.g6714.t1   -            533 CotH_genes           -            603   4.1e-51  173.7   2.2   1   1   6.4e-54   6.4e-51  173.1   2.2    20   504    11   511     4   530 0.77 -
+MgloAD054|ctg_437.g4775.t1   -            531 CotH_genes           -            603   3.8e-49  167.2   3.8   1   1   4.9e-52   4.9e-49  166.8   3.8    21   491    10   500     4   529 0.79 -
+MgloAD054|ctg_3127.g11391.t1 -            372 CotH_genes           -            603   3.6e-29  101.2   0.7   1   1   4.4e-32   4.4e-29  101.0   0.7     1   352     1   367     1   370 0.83 -
+MgloAD054|ctg_1284.g8561.t1  -            353 CotH_genes           -            603   5.2e-29  100.7   2.2   1   1   6.1e-32   6.1e-29  100.5   2.2   238   541     3   309     1   345 0.75 -
+MgloAD054|ctg_2675.g11004.t1 -            202 CotH_genes           -            603   1.9e-17   62.6   0.7   1   1   2.2e-20   2.2e-17   62.3   0.7    16   191    15   196     2   201 0.82 -
+MgloAD054|ctg_31.g678.t1     -           1051 CotH_genes           -            603   6.5e-16   57.5   0.1   1   1   9.5e-19   9.5e-16   56.9   0.1    15   228     9   232     1   244 0.79 -
+MgloAD054|ctg_2789.g11113.t1 -            152 CotH_genes           -            603   1.8e-07   29.5   0.0   1   1   1.9e-10   1.9e-07   29.5   0.0   380   489     6   116     1   151 0.69 -
+MgloAD054|ctg_1231.g8411.t1  -            155 CotH_genes           -            603     2e-06   26.1   0.2   1   1   2.3e-09   2.3e-06   25.9   0.2   379   483     8   114     2   135 0.81 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      HMM/CotH.hmm
+# Target file:     proteins/Mortierella_globulifera_AD054.aa.fasta
+# Option settings: hmmsearch --domtblout results/CotH__Mortierella_globulifera_AD054.aa.domtbl -E 1e-4 --cpu 4 HMM/CotH.hmm proteins/Mortierella_globulifera_AD054.aa.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Mucorales_Virulence/CotH
+# Date:            Wed Jul 12 19:55:53 2017
+# [ok]

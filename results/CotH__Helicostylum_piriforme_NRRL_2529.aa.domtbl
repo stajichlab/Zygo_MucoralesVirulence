@@ -1,0 +1,26 @@
+#                                                                                        --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                    accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#            ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+HpirNRRL_2529|ctg_301.g3588.t1   -            592 CotH_genes           -            603  3.8e-240  798.1   2.3   1   1  4.4e-243  4.4e-240  797.9   2.3     1   571     1   564     1   591 0.95 -
+HpirNRRL_2529|ctg_867.g7113.t1   -            350 CotH_genes           -            603   7.3e-72  242.3   1.4   1   1   8.3e-75   8.1e-72  242.2   1.4     1   357     1   349     1   350 0.95 -
+HpirNRRL_2529|ctg_1686.g9937.t1  -            571 CotH_genes           -            603   7.3e-62  209.3   2.2   1   1   1.2e-64   1.2e-61  208.6   2.2    14   530    13   534     2   554 0.82 -
+HpirNRRL_2529|ctg_734.g6448.t1   -            615 CotH_genes           -            603   1.3e-60  205.2   4.0   1   1   1.6e-63   1.6e-60  204.9   4.0    10   539    12   557     2   613 0.79 -
+HpirNRRL_2529|ctg_1177.g8394.t1  -            605 CotH_genes           -            603   6.4e-59  199.6   2.7   1   1   7.6e-62   7.5e-59  199.4   2.7    13   546    11   560     1   595 0.79 -
+HpirNRRL_2529|ctg_368.g4114.t1   -            613 CotH_genes           -            603   2.4e-58  197.7  10.2   1   1   2.8e-61   2.7e-58  197.5  10.2    12   581    10   602     1   613 0.76 -
+HpirNRRL_2529|ctg_1222.g8553.t1  -            543 CotH_genes           -            603   8.6e-57  192.6   4.2   1   1   1.1e-59   1.1e-56  192.3   4.2     3   489     3   512     1   522 0.83 -
+HpirNRRL_2529|ctg_1155.g8313.t1  -            598 CotH_genes           -            603   2.3e-56  191.1   9.7   1   1   2.8e-59   2.8e-56  190.9   9.7     9   554     9   568     1   586 0.76 -
+HpirNRRL_2529|ctg_738.g6467.t1   -            520 CotH_genes           -            603   3.4e-53  180.7   5.6   1   1   4.5e-56   4.5e-53  180.3   5.6    73   498    60   497    32   517 0.80 -
+HpirNRRL_2529|ctg_193.g2618.t1   -            610 CotH_genes           -            603   1.6e-51  175.2   0.1   1   1   2.3e-54   2.2e-51  174.7   0.1    10   531    19   552    12   587 0.78 -
+HpirNRRL_2529|ctg_1155.g8314.t1  -            266 CotH_genes           -            603   6.2e-36  123.7   2.5   1   1   6.9e-39   6.8e-36  123.5   2.5     7   258     7   264     1   266 0.82 -
+HpirNRRL_2529|ctg_1418.g9207.t1  -            180 CotH_genes           -            603   6.3e-13   47.7   0.1   1   1   7.4e-16   7.3e-13   47.5   0.1   408   561     6   159     4   176 0.77 -
+HpirNRRL_2529|ctg_4719.g12756.t1 -             81 CotH_genes           -            603   8.2e-10   37.4   2.3   1   1   8.5e-13   8.4e-10   37.4   2.3   335   394    17    78     6    81 0.89 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      HMM/CotH.hmm
+# Target file:     proteins/Helicostylum_piriforme_NRRL_2529.aa.fasta
+# Option settings: hmmsearch --domtblout results/CotH__Helicostylum_piriforme_NRRL_2529.aa.domtbl -E 1e-4 --cpu 4 HMM/CotH.hmm proteins/Helicostylum_piriforme_NRRL_2529.aa.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Mucorales_Virulence/CotH
+# Date:            Wed Jul 12 19:55:41 2017
+# [ok]

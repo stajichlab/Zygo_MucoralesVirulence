@@ -1,0 +1,19 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Umbra1|Umbra1_259744 -            596 CotH_genes           -            603  1.5e-215  716.5  14.0   1   1  9.2e-219  1.8e-215  716.2  14.0     1   585     1   582     1   594 0.92 fgenesh1_kg.77_#_21_#_combest_scaffold_77_135088
+Umbra1|Umbra1_299235 -            599 CotH_genes           -            603   5.9e-64  215.8  12.0   1   1   3.7e-67   7.3e-64  215.6  12.0     2   571     2   575     1   595 0.79 estExt_fgenesh1_pg.C_190040
+Umbra1|Umbra1_233062 -            521 CotH_genes           -            603   6.1e-64  215.8   5.5   1   1   3.4e-67   6.8e-64  215.6   5.5     1   526     1   520     1   520 0.85 fgenesh1_kg.15_#_797_#_combest_scaffold_15_25675
+Umbra1|Umbra1_290209 -            576 CotH_genes           -            603   3.2e-61  206.8   3.4   1   1   2.2e-64   4.3e-61  206.4   3.4    14   548    19   560     7   571 0.81 MIX5432_30_24
+Umbra1|Umbra1_303614 -            567 CotH_genes           -            603   7.6e-42  142.8   6.2   1   2   3.9e-45   7.6e-42  142.8   6.2    12   473    12   484     2   495 0.80 estExt_fgenesh1_pg.C_940008
+Umbra1|Umbra1_303614 -            567 CotH_genes           -            603   7.6e-42  142.8   6.2   2   2      0.62   1.2e+03   -3.2   0.0   506   528   543   565   534   566 0.80 estExt_fgenesh1_pg.C_940008
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      HMM/CotH.hmm
+# Target file:     proteins/Umbelopsis_ramanniana_AG_#.Umbra1.v1.aa.fasta
+# Option settings: hmmsearch --domtblout results/CotH__Umbelopsis_ramanniana_AG_#.Umbra1.v1.aa.domtbl -E 1e-4 --cpu 4 HMM/CotH.hmm proteins/Umbelopsis_ramanniana_AG_#.Umbra1.v1.aa.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Mucorales_Virulence/CotH
+# Date:            Wed Jul 12 19:56:18 2017
+# [ok]

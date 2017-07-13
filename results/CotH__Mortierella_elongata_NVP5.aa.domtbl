@@ -1,0 +1,25 @@
+#                                                                                   --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name               accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#       ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+MeloNVP5|ctg_3241.g12343.t1 -            536 CotH_genes           -            603  1.6e-225  750.0   3.2   1   1  1.2e-228  1.7e-225  749.8   3.2     2   539     2   536     1   536 0.98 -
+MeloNVP5|ctg_1032.g7165.t1  -            616 CotH_genes           -            603   1.5e-66  224.9   5.4   1   1   1.3e-69   1.7e-66  224.7   5.4    13   545    11   561     1   610 0.80 -
+MeloNVP5|ctg_640.g5348.t1   -            633 CotH_genes           -            603   1.6e-63  214.9   1.2   1   1   1.6e-66   2.3e-63  214.4   1.2    14   594    13   623     2   633 0.79 -
+MeloNVP5|ctg_1024.g7129.t1  -            602 CotH_genes           -            603   1.1e-60  205.5   7.4   1   1   9.7e-64   1.3e-60  205.2   7.4     5   566     3   577     1   594 0.80 -
+MeloNVP5|ctg_3394.g12511.t1 -            541 CotH_genes           -            603   5.2e-58  196.7   3.6   1   1   4.5e-61   6.2e-58  196.4   3.6     1   495     1   516     1   539 0.80 -
+MeloNVP5|ctg_891.g6578.t1   -            535 CotH_genes           -            603   2.1e-54  184.8   6.3   1   1   1.8e-57   2.5e-54  184.5   6.3    39   532     8   507     1   532 0.79 -
+MeloNVP5|ctg_1448.g8655.t1  -            610 CotH_genes           -            603   6.5e-50  170.0   0.6   1   1   6.3e-53   8.8e-50  169.5   0.6     9   496    11   520     4   562 0.81 -
+MeloNVP5|ctg_891.g6579.t1   -            560 CotH_genes           -            603   2.3e-47  161.5  11.0   1   2   3.7e-29   5.1e-26   91.0   2.4     9   236     9   248     1   256 0.79 -
+MeloNVP5|ctg_891.g6579.t1   -            560 CotH_genes           -            603   2.3e-47  161.5  11.0   2   2   1.5e-24   2.1e-21   75.8   1.5   340   539   320   514   260   552 0.80 -
+MeloNVP5|ctg_1900.g9973.t1  -            378 CotH_genes           -            603   1.6e-33  115.8   6.6   1   2   8.7e-28   1.2e-24   86.5   0.7    11   231    11   245     1   253 0.77 -
+MeloNVP5|ctg_1900.g9973.t1  -            378 CotH_genes           -            603   1.6e-33  115.8   6.6   2   2   1.6e-11   2.2e-08   32.8   0.7   340   394   286   342   265   373 0.88 -
+MeloNVP5|ctg_3892.g12975.t1 -            159 CotH_genes           -            603   2.7e-11   42.4   0.0   1   1   2.1e-14   2.9e-11   42.3   0.0   434   584     2   147     1   158 0.77 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      HMM/CotH.hmm
+# Target file:     proteins/Mortierella_elongata_NVP5.aa.fasta
+# Option settings: hmmsearch --domtblout results/CotH__Mortierella_elongata_NVP5.aa.domtbl -E 1e-4 --cpu 4 HMM/CotH.hmm proteins/Mortierella_elongata_NVP5.aa.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Mucorales_Virulence/CotH
+# Date:            Wed Jul 12 19:55:51 2017
+# [ok]

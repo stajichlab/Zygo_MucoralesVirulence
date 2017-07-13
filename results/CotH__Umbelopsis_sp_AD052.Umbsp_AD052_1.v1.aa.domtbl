@@ -1,0 +1,20 @@
+#                                                                                          --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                      accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#              ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Umbsp_AD052_1|Umbsp_AD052_1_288006 -            603 CotH_genes           -            603    3e-215  715.5  13.0   1   1  2.3e-218  3.5e-215  715.2  13.0     3   601     3   593     1   599 0.92 estExt_Genewise1.C_4_t10468
+Umbsp_AD052_1|Umbsp_AD052_1_361323 -            520 CotH_genes           -            603   2.6e-63  213.6   3.5   1   1   1.9e-66   2.9e-63  213.5   3.5     9   526     9   519     1   519 0.85 gm1.5662_g
+Umbsp_AD052_1|Umbsp_AD052_1_343472 -            598 CotH_genes           -            603   8.6e-61  205.3  13.6   1   1   6.2e-64   9.6e-61  205.2  13.6     1   581     1   582     1   597 0.79 fgenesh1_pm.18_#_21
+Umbsp_AD052_1|Umbsp_AD052_1_332630 -            580 CotH_genes           -            603   2.7e-58  197.1   3.0   1   1   2.3e-61   3.6e-58  196.7   3.0    17   542    24   557     7   574 0.77 fgenesh1_kg.48_#_98_#_TRINITY_DN1014_c0_g1_i1
+Umbsp_AD052_1|Umbsp_AD052_1_331086 -            567 CotH_genes           -            603   6.6e-43  146.2   5.3   1   2   4.2e-46   6.6e-43  146.2   5.3    14   473    14   484     2   495 0.80 fgenesh1_kg.36_#_124_#_TRINITY_DN1666_c0_g1_i1
+Umbsp_AD052_1|Umbsp_AD052_1_331086 -            567 CotH_genes           -            603   6.6e-43  146.2   5.3   2   2       0.5   7.8e+02   -2.6   0.0   507   528   544   565   534   566 0.81 fgenesh1_kg.36_#_124_#_TRINITY_DN1666_c0_g1_i1
+Umbsp_AD052_1|Umbsp_AD052_1_354957 -            572 CotH_genes           -            603   2.4e-38  131.2  10.1   1   1     2e-41   3.1e-38  130.8  10.1     1   528     1   538     1   548 0.78 estExt_fgenesh1_pg.C_360043
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      HMM/CotH.hmm
+# Target file:     proteins/Umbelopsis_sp_AD052.Umbsp_AD052_1.v1.aa.fasta
+# Option settings: hmmsearch --domtblout results/CotH__Umbelopsis_sp_AD052.Umbsp_AD052_1.v1.aa.domtbl -E 1e-4 --cpu 4 HMM/CotH.hmm proteins/Umbelopsis_sp_AD052.Umbsp_AD052_1.v1.aa.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Mucorales_Virulence/CotH
+# Date:            Wed Jul 12 19:56:18 2017
+# [ok]

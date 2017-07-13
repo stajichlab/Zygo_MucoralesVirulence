@@ -1,0 +1,18 @@
+#                                                                              --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name          accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#  ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Lobtra1|Lobtra1_363340 -            594 CotH_genes           -            603   5.7e-59  199.6   7.1   1   1     3e-62     7e-59  199.3   7.1     8   562     8   572     1   587 0.79 fgenesh1_kg.60_#_102_#_Locus947v1rpkm186.36
+Lobtra1|Lobtra1_361408 -            608 CotH_genes           -            603   8.5e-58  195.8   4.7   1   1   4.3e-61     1e-57  195.5   4.7    10   550     9   561     1   606 0.78 fgenesh1_kg.47_#_50_#_Locus587v1rpkm306.64
+Lobtra1|Lobtra1_426275 -            605 CotH_genes           -            603   1.3e-55  188.6   9.2   1   1   7.4e-59   1.7e-55  188.1   9.2     9   546    11   562     4   599 0.75 estExt_Genemark1.C_600053
+Lobtra1|Lobtra1_318227 -            553 CotH_genes           -            603   1.3e-52  178.7   0.5   1   1   6.4e-56   1.5e-52  178.4   0.5     6   510     6   522     1   548 0.82 estExt_Genewise1.C_4_t10274
+Lobtra1|Lobtra1_315920 -            561 CotH_genes           -            603   1.1e-51  175.6   0.4   1   1   5.9e-55   1.4e-51  175.2   0.4    74   594    16   543     2   556 0.81 e_gw1.107.4.1
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      HMM/CotH.hmm
+# Target file:     proteins/Lobosporangium_transversale_NRRL_3116.Lobtra1.v1.aa.fasta
+# Option settings: hmmsearch --domtblout results/CotH__Lobosporangium_transversale_NRRL_3116.Lobtra1.v1.aa.domtbl -E 1e-4 --cpu 4 HMM/CotH.hmm proteins/Lobosporangium_transversale_NRRL_3116.Lobtra1.v1.aa.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Mucorales_Virulence/CotH
+# Date:            Wed Jul 12 19:55:44 2017
+# [ok]

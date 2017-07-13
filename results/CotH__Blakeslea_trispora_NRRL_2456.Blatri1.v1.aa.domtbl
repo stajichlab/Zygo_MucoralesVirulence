@@ -1,0 +1,22 @@
+#                                                                              --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name          accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#  ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Blatri1|Blatri1_347503 -            599 CotH_genes           -            603  1.6e-297  987.5  12.6   1   1  1.5e-300  1.9e-297  987.2  12.6     1   600     1   595     1   598 0.94 estExt_Genewise1.C_100055
+Blatri1|Blatri1_367307 -            607 CotH_genes           -            603  1.8e-231  769.3   8.7   1   1  1.6e-234  2.1e-231  769.2   8.7     9   541     9   532     1   599 0.95 estExt_Genewise1Plus.C_150176
+Blatri1|Blatri1_374345 -            525 CotH_genes           -            603  1.4e-226  753.2  16.0   1   1  1.2e-229  1.6e-226  753.0  16.0     1   529     1   523     1   525 0.99 estExt_Genewise1Plus.C_570114
+Blatri1|Blatri1_383253 -            615 CotH_genes           -            603   1.3e-61  208.4   6.0   1   1   1.3e-64   1.7e-61  207.9   6.0    10   586    13   599     1   614 0.76 fgenesh1_kg.4_#_217_#_TRINITY_DN1931_c0_g2_i1
+Blatri1|Blatri1_445955 -            546 CotH_genes           -            603   2.4e-56  190.9  13.2   1   1   2.4e-59   3.1e-56  190.6  13.2     3   530     6   543     2   546 0.82 estExt_Genemark1.C_190060
+Blatri1|Blatri1_392645 -            621 CotH_genes           -            603   7.9e-56  189.2  20.1   1   1   8.3e-59   1.1e-55  188.8  20.1     8   593    10   611     1   619 0.77 fgenesh1_kg.19_#_210_#_TRINITY_DN2494_c0_g1_i2
+Blatri1|Blatri1_421121 -            577 CotH_genes           -            603   4.8e-40  137.1   2.7   1   1   4.8e-43   6.2e-40  136.7   2.7    35   474    41   492     4   502 0.80 fgenesh1_pg.8_#_93
+Blatri1|Blatri1_365082 -            589 CotH_genes           -            603   6.5e-35  120.2   4.8   1   1   6.9e-38   8.9e-35  119.7   4.8     2   476     4   494     3   520 0.80 estExt_Genewise1Plus.C_80184
+Blatri1|Blatri1_320573 -            713 CotH_genes           -            603   1.2e-30  106.0   0.3   1   1   9.1e-33   1.2e-29  102.8   0.3    74   473    66   491    51   497 0.83 e_gw1.2.635.1
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      HMM/CotH.hmm
+# Target file:     proteins/Blakeslea_trispora_NRRL_2456.Blatri1.v1.aa.fasta
+# Option settings: hmmsearch --domtblout results/CotH__Blakeslea_trispora_NRRL_2456.Blatri1.v1.aa.domtbl -E 1e-4 --cpu 4 HMM/CotH.hmm proteins/Blakeslea_trispora_NRRL_2456.Blatri1.v1.aa.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Mucorales_Virulence/CotH
+# Date:            Wed Jul 12 19:55:35 2017
+# [ok]

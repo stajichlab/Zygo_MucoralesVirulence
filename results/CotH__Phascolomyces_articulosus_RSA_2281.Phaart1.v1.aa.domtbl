@@ -1,0 +1,26 @@
+#                                                                              --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name          accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#  ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Phaart1|Phaart1_440700 -            509 CotH_genes           -            603  1.4e-233  776.7  12.4   1   1  1.5e-236  1.6e-233  776.4  12.4    13   514     2   500     1   503 0.98 e_gw1.18.512.1
+Phaart1|Phaart1_9330   -            376 CotH_genes           -            603  2.8e-168  561.0   6.4   1   1    3e-171  3.3e-168  560.7   6.4   210   572     1   357     1   370 0.94 CE9329_81810
+Phaart1|Phaart1_9338   -            186 CotH_genes           -            603   1.7e-58  198.3   0.4   1   1   1.8e-61   2.1e-58  198.1   0.4    14   170    24   181     9   184 0.93 CE9337_30504
+Phaart1|Phaart1_510998 -            610 CotH_genes           -            603   6.7e-58  196.4   2.7   1   1   9.4e-61   1.1e-57  195.7   2.7    11   543    14   555     3   598 0.77 fgenesh1_kg.14_#_731_#_TRINITY_DN6698_c1_g2_i2
+Phaart1|Phaart1_490749 -            654 CotH_genes           -            603   2.7e-51  174.6   5.3   1   1   3.2e-54   3.6e-51  174.2   5.3    19   533    44   579    36   651 0.72 estExt_Genewise1Plus.C_590039
+Phaart1|Phaart1_70582  -            569 CotH_genes           -            603   1.1e-46  159.4   4.8   1   1   1.3e-49   1.5e-46  158.9   4.8     5   473    13   496     8   507 0.82 CE70581_748
+Phaart1|Phaart1_577164 -            618 CotH_genes           -            603   1.1e-45  156.0   0.5   1   1   2.1e-48   2.3e-45  155.0   0.5    11   526    28   559    16   578 0.79 estExt_fgenesh1_pg.C_590016
+Phaart1|Phaart1_581565 -            602 CotH_genes           -            603   4.7e-42  144.1   7.3   1   1   4.5e-45   5.1e-42  144.0   7.3    15   542     2   540     1   601 0.72 MIX3972_9790_54
+Phaart1|Phaart1_538812 -            584 CotH_genes           -            603   1.2e-41  142.7   1.3   1   1   1.4e-44   1.6e-41  142.3   1.3    28   473    45   501    30   519 0.84 fgenesh1_pg.18_#_160
+Phaart1|Phaart1_514452 -            563 CotH_genes           -            603   8.9e-40  136.5   3.0   1   1   1.3e-42   1.5e-39  135.8   3.0    18   473    25   487     6   497 0.82 fgenesh1_kg.18_#_492_#_TRINITY_DN2676_c0_g1_i1
+Phaart1|Phaart1_563431 -            610 CotH_genes           -            603   7.4e-38  130.2   0.4   1   1     9e-41     1e-37  129.8   0.4    23   524    34   566    22   578 0.80 gm1.9582_g
+Phaart1|Phaart1_541273 -            591 CotH_genes           -            603     8e-35  120.2   1.1   1   1   1.1e-37   1.3e-34  119.5   1.1    51   475    73   508    10   518 0.81 fgenesh1_pg.29_#_118
+Phaart1|Phaart1_448527 -            550 CotH_genes           -            603     2e-31  108.9   3.4   1   1   2.4e-34   2.6e-31  108.6   3.4    35   473     4   472     1   481 0.79 e_gw1.61.41.1
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      HMM/CotH.hmm
+# Target file:     proteins/Phascolomyces_articulosus_RSA_2281.Phaart1.v1.aa.fasta
+# Option settings: hmmsearch --domtblout results/CotH__Phascolomyces_articulosus_RSA_2281.Phaart1.v1.aa.domtbl -E 1e-4 --cpu 4 HMM/CotH.hmm proteins/Phascolomyces_articulosus_RSA_2281.Phaart1.v1.aa.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Mucorales_Virulence/CotH
+# Date:            Wed Jul 12 19:56:07 2017
+# [ok]

@@ -1,0 +1,26 @@
+#                                                                                   --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name               accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#       ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+MspGBA35|ctg_937.g10820.t1  -            463 CotH_genes           -            603  3.1e-175  583.9  10.1   1   2  5.4e-134  7.1e-131  437.4   4.4   112   417     2   303     1   307 0.98 -
+MspGBA35|ctg_937.g10820.t1  -            463 CotH_genes           -            603  3.1e-175  583.9  10.1   2   2   2.6e-47   3.5e-44  151.1   0.4   441   579   305   442   301   463 0.85 -
+MspGBA35|ctg_584.g8533.t1   -            596 CotH_genes           -            603   3.5e-66  223.7   7.0   1   1   3.2e-69   4.3e-66  223.5   7.0     8   572     8   582     1   593 0.80 -
+MspGBA35|ctg_947.g10865.t1  -            616 CotH_genes           -            603   1.9e-61  208.1   5.1   1   1   1.8e-64   2.3e-61  207.8   5.1    11   550    10   565     1   615 0.76 -
+MspGBA35|ctg_62.g1900.t1    -            690 CotH_genes           -            603   8.2e-61  206.0   0.4   1   1   7.6e-64   9.9e-61  205.7   0.4     2   567     2   584     1   615 0.78 -
+MspGBA35|ctg_584.g8532.t1   -            603 CotH_genes           -            603   6.6e-59  199.7  11.3   1   1     6e-62   7.9e-59  199.5  11.3     7   560     7   575     1   600 0.78 -
+MspGBA35|ctg_456.g7396.t1   -            792 CotH_genes           -            603   2.3e-58  197.9   7.8   1   1   2.2e-61   2.9e-58  197.6   7.8    18   496     8   506     1   554 0.78 -
+MspGBA35|ctg_768.g9870.t1   -            546 CotH_genes           -            603   1.2e-50  172.5   3.1   1   1   1.1e-53   1.4e-50  172.2   3.1     3   495     3   517     1   529 0.80 -
+MspGBA35|ctg_58.g1807.t1    -            587 CotH_genes           -            603   4.9e-50  170.4   8.7   1   2   3.4e-34   4.4e-31  107.8   0.0    15   258    14   264     2   285 0.86 -
+MspGBA35|ctg_58.g1807.t1    -            587 CotH_genes           -            603   4.9e-50  170.4   8.7   2   2   1.8e-19   2.4e-16   59.1   6.9   308   594   289   577   279   586 0.72 -
+MspGBA35|ctg_25.g895.t1     -            519 CotH_genes           -            603   4.4e-48  164.0   3.6   1   1   3.9e-51   5.1e-48  163.7   3.6    84   528     5   450     1   508 0.81 -
+MspGBA35|ctg_937.g10819.t1  -            103 CotH_genes           -            603   1.7e-26   92.7   0.2   1   1   1.5e-29   1.9e-26   92.5   0.2     1    96     1    96     1   101 0.96 -
+MspGBA35|ctg_1402.g12458.t1 -            344 CotH_genes           -            603   2.7e-19   68.9   0.2   1   1   2.6e-22   3.4e-19   68.6   0.2   230   464     6   250     1   267 0.79 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      HMM/CotH.hmm
+# Target file:     proteins/Mortierella_sp_GBA35.aa.fasta
+# Option settings: hmmsearch --domtblout results/CotH__Mortierella_sp_GBA35.aa.domtbl -E 1e-4 --cpu 4 HMM/CotH.hmm proteins/Mortierella_sp_GBA35.aa.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Mucorales_Virulence/CotH
+# Date:            Wed Jul 12 19:56:00 2017
+# [ok]

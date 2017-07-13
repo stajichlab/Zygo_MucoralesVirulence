@@ -1,0 +1,29 @@
+#                                                                                    --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#        ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+MverAD079|ctg_674.g7737.t1   -            599 CotH_genes           -            603  4.7e-235  781.5  14.2   1   1  5.8e-238  5.2e-235  781.3  14.2     4   599     5   595     1   599 0.93 -
+MverAD079|ctg_1423.g11017.t1 -            555 CotH_genes           -            603   1.4e-61  208.5   7.8   1   1   1.8e-64   1.6e-61  208.3   7.8     9   527     8   539     1   554 0.80 -
+MverAD079|ctg_1283.g10585.t1 -            596 CotH_genes           -            603   7.3e-61  206.2   3.4   1   1   9.7e-64   8.6e-61  205.9   3.4     1   499     1   514     1   558 0.82 -
+MverAD079|ctg_1150.g10133.t1 -            599 CotH_genes           -            603   1.8e-60  204.9   5.9   1   1   2.5e-63   2.2e-60  204.6   5.9     8   568     8   579     1   596 0.77 -
+MverAD079|ctg_18.g545.t1     -            611 CotH_genes           -            603   1.3e-59  202.0   5.8   1   1   1.8e-62   1.6e-59  201.7   5.8    11   579    10   594     1   608 0.78 -
+MverAD079|ctg_124.g2528.t1   -            660 CotH_genes           -            603   1.3e-55  188.8   0.2   1   1   1.9e-58   1.7e-55  188.5   0.2    12   583    11   590     1   607 0.77 -
+MverAD079|ctg_18.g539.t1     -            615 CotH_genes           -            603   2.4e-55  187.9  15.1   1   1   3.7e-58   3.3e-55  187.5  15.1    21   569    46   594    36   610 0.81 -
+MverAD079|ctg_41.g1053.t1    -            631 CotH_genes           -            603   4.1e-52  177.3   0.1   1   1   7.4e-55   6.6e-52  176.6   0.1    15   564    14   580     2   629 0.76 -
+MverAD079|ctg_683.g7786.t1   -            534 CotH_genes           -            603   6.2e-52  176.7   4.7   1   1   8.3e-55   7.4e-52  176.4   4.7     1   490     1   504     1   517 0.83 -
+MverAD079|ctg_162.g3082.t1   -            570 CotH_genes           -            603   3.9e-51  174.0   7.8   1   1   5.2e-54   4.7e-51  173.8   7.8    21   525    58   567    48   570 0.83 -
+MverAD079|ctg_292.g4618.t1   -            642 CotH_genes           -            603   3.1e-49  167.8   0.6   1   1   4.7e-52   4.2e-49  167.3   0.6    15   479    14   489     1   509 0.81 -
+MverAD079|ctg_1604.g11482.t1 -            646 CotH_genes           -            603   8.2e-47  159.8   1.8   1   1   1.4e-49   1.3e-46  159.1   1.8    14   497    13   504     1   536 0.81 -
+MverAD079|ctg_313.g4830.t1   -            370 CotH_genes           -            603   3.6e-37  127.9   1.3   1   1   4.4e-40   3.9e-37  127.8   1.3     9   356     7   369     1   370 0.78 -
+MverAD079|ctg_2825.g13086.t1 -            219 CotH_genes           -            603   7.6e-19   67.4   0.5   1   1   9.8e-22   8.7e-19   67.2   0.5   378   566    17   196     1   214 0.73 -
+MverAD079|ctg_571.g7074.t1   -            283 CotH_genes           -            603   1.1e-17   63.6   0.7   1   1   1.4e-20   1.2e-17   63.4   0.7   152   280    89   217    57   259 0.85 -
+MverAD079|ctg_571.g7073.t1   -            196 CotH_genes           -            603   1.5e-13   49.9   0.0   1   1   1.9e-16   1.7e-13   49.7   0.0   379   516     5   136     2   177 0.76 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      HMM/CotH.hmm
+# Target file:     proteins/Mortierella_verticillata_AD079.aa.fasta
+# Option settings: hmmsearch --domtblout results/CotH__Mortierella_verticillata_AD079.aa.domtbl -E 1e-4 --cpu 4 HMM/CotH.hmm proteins/Mortierella_verticillata_AD079.aa.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Mucorales_Virulence/CotH
+# Date:            Wed Jul 12 19:56:02 2017
+# [ok]

@@ -1,0 +1,39 @@
+#                                                                              --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name          accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#  ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Thaele1|Thaele1_371358 -            600 CotH_genes           -            603  1.8e-289  961.1   5.5   1   1  3.4e-292    2e-289  960.9   5.5     1   602     1   598     1   599 0.94 estExt_Genewise1.C_330317
+Thaele1|Thaele1_369769 -            615 CotH_genes           -            603  8.6e-258  856.4  10.3   1   1  1.6e-260  9.5e-258  856.3  10.3     1   586     1   585     1   614 0.94 estExt_Genewise1.C_280055
+Thaele1|Thaele1_408658 -            525 CotH_genes           -            603  9.5e-221  734.1  11.0   1   1  1.8e-223  1.1e-220  733.9  11.0     1   529     1   523     1   525 0.98 fgenesh1_kg.2_#_872_#_TRINITY_DN10458_c0_g2_i1
+Thaele1|Thaele1_375516 -            602 CotH_genes           -            603   6.8e-56  189.6   4.4   1   1   1.9e-58   1.1e-55  188.9   4.4     9   564    12   570     2   597 0.77 estExt_Genewise1Plus.C_2_t20157
+Thaele1|Thaele1_451315 -            561 CotH_genes           -            603   4.3e-51  173.8   7.1   1   1   8.9e-54   5.3e-51  173.5   7.1     8   531    11   542     1   560 0.78 estExt_fgenesh1_pg.C_80056
+Thaele1|Thaele1_360357 -            616 CotH_genes           -            603   9.3e-51  172.7  11.1   1   1   1.9e-53   1.1e-50  172.4  11.1     2   593     2   604     1   615 0.77 estExt_Genewise1.C_8_t10104
+Thaele1|Thaele1_492439 -            583 CotH_genes           -            603   1.3e-41  142.5   6.6   1   1     3e-44   1.8e-41  142.0   6.6     9   472    13   491     5   499 0.81 estExt_Genemark1.C_70231
+Thaele1|Thaele1_494016 -            556 CotH_genes           -            603   2.9e-40  138.0   0.2   1   1   6.3e-43   3.7e-40  137.6   0.2    20   521    22   551     2   555 0.76 estExt_Genemark1.C_120019
+Thaele1|Thaele1_491054 -            567 CotH_genes           -            603   8.6e-40  136.4   2.8   1   1   1.9e-42   1.1e-39  136.1   2.8    20   478    19   491     3   517 0.80 estExt_Genemark1.C_4_t10086
+Thaele1|Thaele1_377610 -            540 CotH_genes           -            603   2.4e-39  135.0   2.5   1   1   5.6e-42   3.3e-39  134.5   2.5    72   475    45   458     8   479 0.82 estExt_Genewise1Plus.C_4_t10191
+Thaele1|Thaele1_491052 -            572 CotH_genes           -            603   2.6e-38  131.6   3.8   1   1   5.5e-41   3.3e-38  131.2   3.8     2   476     6   494     5   509 0.80 estExt_Genemark1.C_4_t10084
+Thaele1|Thaele1_438705 -            551 CotH_genes           -            603   7.9e-37  126.7   2.1   1   2   3.6e-25   2.2e-22   79.0   0.4    55   331    25   302     5   306 0.81 fgenesh1_pm.10_#_194
+Thaele1|Thaele1_438705 -            551 CotH_genes           -            603   7.9e-37  126.7   2.1   2   2   4.8e-16   2.9e-13   48.8   0.1   282   473   291   484   273   490 0.80 fgenesh1_pm.10_#_194
+Thaele1|Thaele1_357129 -            537 CotH_genes           -            603   9.8e-36  123.0   4.8   1   1   2.3e-38   1.4e-35  122.6   4.8    72   477    45   460    20   476 0.79 estExt_Genewise1.C_4_t10186
+Thaele1|Thaele1_465306 -            530 CotH_genes           -            603   1.3e-33  116.0   6.0   1   1   3.1e-36   1.9e-33  115.5   6.0    48   446    15   427     6   454 0.82 gm1.7648_g
+Thaele1|Thaele1_443147 -            562 CotH_genes           -            603     3e-33  114.8   8.3   1   2   6.4e-36   3.8e-33  114.5   6.9    14   473    18   487     1   497 0.80 estExt_fgenesh1_pm.C_40044
+Thaele1|Thaele1_443147 -            562 CotH_genes           -            603     3e-33  114.8   8.3   2   2       0.6   3.6e+02   -1.0   0.0   478   526   514   559   509   561 0.80 estExt_fgenesh1_pm.C_40044
+Thaele1|Thaele1_380312 -            579 CotH_genes           -            603     9e-32  110.0   4.4   1   1     2e-34   1.2e-31  109.6   4.4     6   481     7   497     1   503 0.81 estExt_Genewise1Plus.C_7_t20018
+Thaele1|Thaele1_401574 -            728 CotH_genes           -            603   2.2e-31  108.7   1.5   1   1   5.7e-34   3.4e-31  108.1   1.5    72   574    95   622    43   652 0.77 fgenesh1_pg.19_#_218
+Thaele1|Thaele1_442483 -            582 CotH_genes           -            603   2.5e-31  108.5  10.8   1   1   5.3e-34   3.2e-31  108.2  10.8    17   473    25   492     1   498 0.81 estExt_fgenesh1_pm.C_20068
+Thaele1|Thaele1_454092 -            580 CotH_genes           -            603   3.2e-27   94.9   2.7   1   1   2.3e-29   1.4e-26   92.8   2.8     5   475    11   498     5   508 0.76 estExt_fgenesh1_pg.C_180098
+Thaele1|Thaele1_497420 -            298 CotH_genes           -            603   7.9e-10   37.5   0.8   1   3   1.3e-07   7.6e-05   21.0   0.1   157   248     1    91     1   104 0.93 estExt_Genemark1.C_280044
+Thaele1|Thaele1_497420 -            298 CotH_genes           -            603   7.9e-10   37.5   0.8   2   3     0.011       6.6    4.7   0.0   299   364   155   219   131   240 0.77 estExt_Genemark1.C_280044
+Thaele1|Thaele1_497420 -            298 CotH_genes           -            603   7.9e-10   37.5   0.8   3   3    0.0003      0.18    9.9   0.1   408   467   238   296   218   298 0.82 estExt_Genemark1.C_280044
+Thaele1|Thaele1_411427 -            198 CotH_genes           -            603   5.8e-09   34.6   0.2   1   1   1.2e-11   7.1e-09   34.3   0.2   350   477     1   121     1   137 0.90 fgenesh1_kg.4_#_183_#_TRINITY_DN6795_c2_g1_i4
+Thaele1|Thaele1_411425 -            170 CotH_genes           -            603   5.5e-06   24.8   0.1   1   1   1.1e-08   6.3e-06   24.6   0.1     2   161     6   169     5   170 0.71 fgenesh1_kg.4_#_181_#_TRINITY_DN6795_c2_g2_i1
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      HMM/CotH.hmm
+# Target file:     proteins/Thamnidium_elegans.Thaele1.v1.aa.fasta
+# Option settings: hmmsearch --domtblout results/CotH__Thamnidium_elegans.Thaele1.v1.aa.domtbl -E 1e-4 --cpu 4 HMM/CotH.hmm proteins/Thamnidium_elegans.Thaele1.v1.aa.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Mucorales_Virulence/CotH
+# Date:            Wed Jul 12 19:56:17 2017
+# [ok]

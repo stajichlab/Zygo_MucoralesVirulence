@@ -1,0 +1,35 @@
+#                                                                                    --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#        ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+MhorCK413|ctg_243.g6588.t1   -            590 CotH_genes           -            603  1.1e-241  803.3   9.9   1   1  1.8e-244  1.3e-241  803.0   9.9     4   574     5   568     1   587 0.95 -
+MhorCK413|ctg_275.g7114.t1   -            596 CotH_genes           -            603   3.5e-67  226.9   7.8   1   1   6.2e-70   4.3e-67  226.6   7.8     9   560     7   567     1   582 0.78 -
+MhorCK413|ctg_159.g5080.t1   -            555 CotH_genes           -            603   4.1e-63  213.5   9.3   1   1   6.9e-66   4.8e-63  213.2   9.3     9   525     8   537     1   553 0.79 -
+MhorCK413|ctg_46.g2058.t1    -            597 CotH_genes           -            603   6.3e-60  203.0   5.1   1   1   1.1e-62   7.7e-60  202.7   5.1     8   567     8   573     1   596 0.77 -
+MhorCK413|ctg_242.g6580.t1   -            585 CotH_genes           -            603   2.8e-59  200.8  13.1   1   1     5e-62   3.5e-59  200.5  13.1    13   543    11   551     1   571 0.77 -
+MhorCK413|ctg_103.g3794.t1   -            592 CotH_genes           -            603   2.2e-57  194.5   3.2   1   1   4.1e-60   2.8e-57  194.2   3.2    27   488    22   502     2   533 0.83 -
+MhorCK413|ctg_1326.g12503.t1 -            540 CotH_genes           -            603   1.2e-56  192.1  10.7   1   1   2.1e-59   1.5e-56  191.8  10.7     2   524     2   534     1   538 0.82 -
+MhorCK413|ctg_1004.g12085.t1 -            831 CotH_genes           -            603   8.2e-56  189.4   0.4   1   1   1.8e-58   1.3e-55  188.7   0.4    20   584   212   811   210   831 0.79 -
+MhorCK413|ctg_478.g9481.t1   -            566 CotH_genes           -            603   6.1e-55  186.5   7.2   1   1   1.1e-57   7.9e-55  186.1   7.2    22   495    59   540    52   565 0.84 -
+MhorCK413|ctg_1094.g12247.t1 -            542 CotH_genes           -            603   6.3e-54  183.1   0.6   1   1   1.4e-56   9.8e-54  182.5   0.6    19   501    10   512     3   520 0.79 -
+MhorCK413|ctg_2.g141.t1      -            540 CotH_genes           -            603     1e-53  182.5   7.7   1   1   1.7e-56   1.2e-53  182.2   7.7     4   491     4   506     1   538 0.81 -
+MhorCK413|ctg_522.g9842.t1   -            539 CotH_genes           -            603   1.2e-53  182.2   5.5   1   1     2e-56   1.4e-53  182.0   5.5    10   492    10   507     1   533 0.85 -
+MhorCK413|ctg_223.g6248.t1   -            631 CotH_genes           -            603     7e-53  179.7   0.4   1   1   1.3e-55   9.2e-53  179.3   0.4    15   528    13   533     2   627 0.80 -
+MhorCK413|ctg_113.g4028.t1   -           1113 CotH_genes           -            603   2.1e-48  164.9   1.0   1   1   3.9e-51   2.7e-48  164.6   1.0    12   497   499   988   483  1106 0.83 -
+MhorCK413|ctg_135.g4556.t1   -            576 CotH_genes           -            603   3.9e-48  164.0   1.9   1   1   8.7e-49     6e-46  156.8   1.9    18   502     9   478     4   504 0.80 -
+MhorCK413|ctg_1229.g12415.t1 -            493 CotH_genes           -            603   4.3e-43  147.4   3.0   1   2      0.11        76    1.2   0.0    15    69     6    64     2    72 0.79 -
+MhorCK413|ctg_1229.g12415.t1 -            493 CotH_genes           -            603   4.3e-43  147.4   3.0   2   2   3.3e-45   2.3e-42  144.9   1.8   123   494    77   466    69   479 0.78 -
+MhorCK413|ctg_1193.g12372.t1 -            261 CotH_genes           -            603   4.8e-29  100.9   2.9   1   1   8.2e-32   5.6e-29  100.7   2.9     7   251    10   260     2   261 0.82 -
+MhorCK413|ctg_44.g1987.t1    -            347 CotH_genes           -            603   1.3e-19   69.8   0.0   1   1   2.2e-22   1.5e-19   69.6   0.0   339   540    93   291    34   334 0.84 -
+MhorCK413|ctg_726.g11142.t1  -            453 CotH_genes           -            603   1.1e-11   43.6   5.3   1   3   8.8e-07   0.00061   18.1   0.6   140   233   171   265   162   296 0.78 -
+MhorCK413|ctg_726.g11142.t1  -            453 CotH_genes           -            603   1.1e-11   43.6   5.3   2   3   2.9e-05      0.02   13.0   0.1   340   375   309   344   290   347 0.88 -
+MhorCK413|ctg_726.g11142.t1  -            453 CotH_genes           -            603   1.1e-11   43.6   5.3   3   3   2.3e-05     0.016   13.3   0.0   450   494   355   399   351   405 0.93 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      HMM/CotH.hmm
+# Target file:     proteins/Mortierella_horticola_CK413.aa.fasta
+# Option settings: hmmsearch --domtblout results/CotH__Mortierella_horticola_CK413.aa.domtbl -E 1e-4 --cpu 4 HMM/CotH.hmm proteins/Mortierella_horticola_CK413.aa.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Mucorales_Virulence/CotH
+# Date:            Wed Jul 12 19:55:54 2017
+# [ok]

@@ -1,0 +1,14 @@
+#                                                                             --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name         accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+# ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+N168|N168.mRNA.3220.1 -            216 CotH_genes           -            603   9.3e-20   69.7   0.3   1   1   1.2e-23   1.1e-19   69.5   0.3   350   556     1   196     1   209 0.82 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      HMM/CotH.hmm
+# Target file:     proteins/Basidiobolus_heterosporus_B8920.N168.v1.aa.fasta
+# Option settings: hmmsearch --domtblout results/CotH__Basidiobolus_heterosporus_B8920.N168.v1.aa.domtbl -E 1e-4 --cpu 4 HMM/CotH.hmm proteins/Basidiobolus_heterosporus_B8920.N168.v1.aa.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Mucorales_Virulence/CotH
+# Date:            Wed Jul 12 19:55:34 2017
+# [ok]

@@ -1,0 +1,36 @@
+#                                                                              --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name          accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#  ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Parpar1|Parpar1_393510 -            602 CotH_genes           -            603  2.8e-297  986.8  14.0   1   1  5.4e-300  3.3e-297  986.5  14.0     1   600     1   597     1   600 0.94 estExt_Genewise1Plus.C_1040008
+Parpar1|Parpar1_422532 -            590 CotH_genes           -            603  2.7e-241  801.9  12.9   1   1  5.3e-244  3.3e-241  801.6  12.9     1   569     1   568     1   588 0.91 fgenesh1_kg.103_#_50_#_Locus419v1rpkm461.05
+Parpar1|Parpar1_421182 -            525 CotH_genes           -            603  4.6e-216  718.5  12.0   1   1  8.3e-219  5.1e-216  718.4  12.0     1   528     1   522     1   524 0.98 fgenesh1_kg.86_#_45_#_Locus6081v1rpkm22.28
+Parpar1|Parpar1_411193 -            617 CotH_genes           -            603   7.7e-54  182.8  13.5   1   1   1.5e-56   9.2e-54  182.5  13.5     1   593     1   609     1   616 0.76 fgenesh1_kg.13_#_164_#_Locus1036v1rpkm198.20
+Parpar1|Parpar1_365330 -            609 CotH_genes           -            603   1.5e-51  175.2  10.1   1   1   3.5e-54   2.2e-51  174.7  10.1    12   587    15   598     3   608 0.74 estExt_Genewise1.C_360059
+Parpar1|Parpar1_457491 -            544 CotH_genes           -            603     1e-47  162.5  16.4   1   1   2.3e-50   1.4e-47  162.0  16.4    15   531     6   534     3   542 0.80 MIX2595_2_14
+Parpar1|Parpar1_440632 -            562 CotH_genes           -            603   3.1e-47  160.9  14.8   1   1   5.6e-50   3.4e-47  160.8  14.8    11   533    17   552     1   561 0.80 estExt_Genemark1.C_130106
+Parpar1|Parpar1_422200 -            607 CotH_genes           -            603   1.6e-44  152.0   2.5   1   2   4.5e-29   2.8e-26   91.7   0.6    32   287    40   299    16   309 0.79 fgenesh1_kg.99_#_40_#_Locus2733v1rpkm70.73
+Parpar1|Parpar1_422200 -            607 CotH_genes           -            603   1.6e-44  152.0   2.5   2   2   1.8e-19   1.1e-16   60.1   0.1   288   479   348   539   343   599 0.83 fgenesh1_kg.99_#_40_#_Locus2733v1rpkm70.73
+Parpar1|Parpar1_348419 -            569 CotH_genes           -            603   6.5e-44  150.0   3.6   1   2   2.4e-28   1.5e-25   89.3   0.2    22   289     3   278     1   293 0.84 e_gw1.75.81.1
+Parpar1|Parpar1_348419 -            569 CotH_genes           -            603   6.5e-44  150.0   3.6   2   2   5.7e-20   3.5e-17   61.7   0.3   272   482   297   506   293   517 0.84 e_gw1.75.81.1
+Parpar1|Parpar1_390656 -            599 CotH_genes           -            603   2.5e-40  138.1   8.3   1   1   5.2e-43   3.2e-40  137.8   8.3    16   474    23   493     5   527 0.83 estExt_Genewise1Plus.C_720038
+Parpar1|Parpar1_422036 -            571 CotH_genes           -            603   9.9e-38  129.5   4.1   1   1   2.1e-40   1.3e-37  129.2   4.1     7   492     8   512     2   528 0.79 fgenesh1_kg.97_#_41_#_Locus1229v1rpkm169.31
+Parpar1|Parpar1_423169 -            593 CotH_genes           -            603   1.6e-36  125.6  15.0   1   1   3.5e-39   2.2e-36  125.1  15.0    11   496    14   515     2   527 0.80 fgenesh1_kg.113_#_29_#_Locus2963v1rpkm64.13
+Parpar1|Parpar1_426183 -            570 CotH_genes           -            603   2.4e-36  125.0   4.9   1   1   6.3e-39   3.9e-36  124.3   4.9     8   472    11   492     1   498 0.82 fgenesh1_kg.183_#_7_#_Locus1098v1rpkm187.81
+Parpar1|Parpar1_428133 -            569 CotH_genes           -            603   1.4e-35  122.4   3.0   1   1   2.3e-37   1.4e-34  119.1   3.0     4   531    25   565    19   568 0.78 gm1.824_g
+Parpar1|Parpar1_378230 -            577 CotH_genes           -            603     2e-34  118.6   8.9   1   1   4.6e-37   2.8e-34  118.1   8.9    20   483    25   498     6   506 0.79 estExt_Genewise1Plus.C_10396
+Parpar1|Parpar1_450431 -            531 CotH_genes           -            603   3.1e-32  111.4   4.0   1   1   8.7e-35   5.4e-32  110.6   4.0    32   473     3   456     1   464 0.83 fgenesh1_pm.18_#_63
+Parpar1|Parpar1_398180 -            575 CotH_genes           -            603   5.2e-32  110.6   7.2   1   1   1.2e-34   7.4e-32  110.1   7.2     7   475     8   495     3   509 0.82 estExt_Genewise1Plus.C_2240013
+Parpar1|Parpar1_447185 -            768 CotH_genes           -            603   5.9e-31  107.2   6.3   1   1   6.5e-33     4e-30  104.4   6.3    44   479    61   550    40   568 0.75 estExt_Genemark1.C_1230012
+Parpar1|Parpar1_418131 -            475 CotH_genes           -            603   6.1e-30  103.8   1.9   1   2   1.9e-15   1.2e-12   46.7   0.0   100   259     2   161     1   197 0.81 fgenesh1_kg.56_#_89_#_Locus324v1rpkm598.04
+Parpar1|Parpar1_418131 -            475 CotH_genes           -            603   6.1e-30  103.8   1.9   2   2   2.3e-18   1.4e-15   56.4   0.9   283   527   221   470   198   473 0.79 fgenesh1_kg.56_#_89_#_Locus324v1rpkm598.04
+Parpar1|Parpar1_459777 -            106 CotH_genes           -            603   2.8e-07   29.0   0.6   1   1     5e-10   3.1e-07   28.8   0.6   200   259    22    83     7    95 0.84 MIX4881_50_56
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      HMM/CotH.hmm
+# Target file:     proteins/Parasitella_parasitica_NRRL_2501.Parpar1.v1.aa.fasta
+# Option settings: hmmsearch --domtblout results/CotH__Parasitella_parasitica_NRRL_2501.Parpar1.v1.aa.domtbl -E 1e-4 --cpu 4 HMM/CotH.hmm proteins/Parasitella_parasitica_NRRL_2501.Parpar1.v1.aa.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Mucorales_Virulence/CotH
+# Date:            Wed Jul 12 19:56:06 2017
+# [ok]

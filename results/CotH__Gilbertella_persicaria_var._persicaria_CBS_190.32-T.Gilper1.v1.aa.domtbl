@@ -1,0 +1,27 @@
+#                                                                              --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name          accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#  ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Gilper1|Gilper1_483864 -            600 CotH_genes           -            603  1.1e-297  987.9  13.1   1   1  1.4e-300  1.3e-297  987.7  13.1     1   600     1   597     1   600 0.95 estExt_Genewise1.C_3_t10267
+Gilper1|Gilper1_479105 -            620 CotH_genes           -            603  6.5e-239  793.8  10.7   1   1    8e-242  7.3e-239  793.7  10.7     1   585     1   577     1   616 0.90 e_gw1.56.39.1
+Gilper1|Gilper1_539646 -            524 CotH_genes           -            603  5.8e-232  770.9  19.0   1   1    7e-235  6.4e-232  770.7  19.0     1   529     1   522     1   524 0.98 fgenesh1_kg.17_#_421_#_TRINITY_DN1666_c0_g1_i1
+Gilper1|Gilper1_532129 -            576 CotH_genes           -            603   2.5e-50  171.0  10.1   1   2   9.2e-37   8.4e-34  116.4   2.7     2   284     2   291     1   334 0.81 fgenesh1_kg.9_#_525_#_TRINITY_DN8288_c0_g1_i1
+Gilper1|Gilper1_532129 -            576 CotH_genes           -            603   2.5e-50  171.0  10.1   2   2   1.8e-19   1.6e-16   59.3   0.8   374   569   365   549   349   574 0.80 fgenesh1_kg.9_#_525_#_TRINITY_DN8288_c0_g1_i1
+Gilper1|Gilper1_572246 -            589 CotH_genes           -            603     3e-45  154.2  13.6   1   1   4.3e-48     4e-45  153.8  13.6    15   482    26   497     9   511 0.84 fgenesh1_pg.23_#_15
+Gilper1|Gilper1_464065 -            534 CotH_genes           -            603     1e-41  142.6   2.9   1   1   1.6e-44   1.4e-41  142.1   2.9    42   476    15   454     7   461 0.80 e_gw1.6.249.1
+Gilper1|Gilper1_640232 -            625 CotH_genes           -            603   3.1e-41  141.0   6.2   1   2   1.1e-26   1.1e-23   83.1   0.9     9   281    11   287     2   301 0.82 estExt_Genemark1.C_410044
+Gilper1|Gilper1_640232 -            625 CotH_genes           -            603   3.1e-41  141.0   6.2   2   2   6.2e-20   5.6e-17   60.8   0.4   324   530   410   622   353   625 0.73 estExt_Genemark1.C_410044
+Gilper1|Gilper1_520755 -            536 CotH_genes           -            603   9.6e-40  136.0  12.5   1   1   1.3e-42   1.2e-39  135.7  12.5    34   473     3   447     1   453 0.84 fgenesh1_kg.1_#_202_#_TRINITY_DN6236_c2_g3_i1
+Gilper1|Gilper1_594173 -            720 CotH_genes           -            603   2.8e-37  127.9   4.1   1   1   4.4e-40     4e-37  127.4   4.1    10   474    12   503     1   511 0.82 estExt_fgenesh1_pg.C_50080
+Gilper1|Gilper1_509551 -            539 CotH_genes           -            603   9.9e-37  126.1   8.8   1   1   5.5e-39     5e-36  123.8   8.8     9   474    11   478     4   528 0.84 estExt_Genewise1Plus.C_180083
+Gilper1|Gilper1_482807 -            575 CotH_genes           -            603   1.1e-36  126.0   1.2   1   1   1.7e-39   1.6e-36  125.4   1.2    11   471    13   490     2   496 0.80 estExt_Genewise1.C_1_t10374
+Gilper1|Gilper1_560986 -            592 CotH_genes           -            603     2e-33  115.1   5.2   1   1   3.8e-36   3.5e-33  114.4   5.2     2   475     5   496     4   512 0.83 fgenesh1_kg.59_#_122_#_TRINITY_DN178_c0_g1_i1
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      HMM/CotH.hmm
+# Target file:     proteins/Gilbertella_persicaria_var._persicaria_CBS_190.32-T.Gilper1.v1.aa.fasta
+# Option settings: hmmsearch --domtblout results/CotH__Gilbertella_persicaria_var._persicaria_CBS_190.32-T.Gilper1.v1.aa.domtbl -E 1e-4 --cpu 4 HMM/CotH.hmm proteins/Gilbertella_persicaria_var._persicaria_CBS_190.32-T.Gilper1.v1.aa.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Mucorales_Virulence/CotH
+# Date:            Wed Jul 12 19:55:38 2017
+# [ok]

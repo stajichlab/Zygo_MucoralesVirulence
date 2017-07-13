@@ -1,0 +1,40 @@
+#                                                                              --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name          accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#  ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Kircor1|Kircor1_462827 -            605 CotH_genes           -            603  2.1e-290  964.5  17.8   1   1  3.3e-293  2.5e-290  964.2  17.8     2   587     2   587     1   603 0.92 estExt_fgenesh1_pg.C_1_t10209
+Kircor1|Kircor1_315490 -            600 CotH_genes           -            603  2.4e-272  904.9   5.9   1   1  3.8e-275  2.9e-272  904.6   5.9     1   557     1   554     1   598 0.95 estExt_Genewise1.C_690069
+Kircor1|Kircor1_412829 -            596 CotH_genes           -            603  6.7e-232  771.3  16.4   1   1    1e-234  7.8e-232  771.1  16.4     1   600     1   589     1   595 0.92 gm1.13927_g
+Kircor1|Kircor1_340259 -            564 CotH_genes           -            603  1.3e-226  753.8  20.2   1   1  2.1e-229  1.6e-226  753.5  20.2     1   547     1   540     1   552 0.96 estExt_Genewise1Plus.C_540127
+Kircor1|Kircor1_390046 -            523 CotH_genes           -            603  1.7e-220  733.6  15.2   1   1  2.5e-223  1.9e-220  733.5  15.2     1   529     1   521     1   523 0.99 fgenesh1_kg.40_#_155_#_TRINITY_DN13752_c0_g1_i1
+Kircor1|Kircor1_303946 -            523 CotH_genes           -            603  6.2e-211  702.0  12.2   1   1  9.1e-214  6.9e-211  701.9  12.2     1   530     1   522     1   523 0.97 estExt_Genewise1.C_210354
+Kircor1|Kircor1_376162 -            619 CotH_genes           -            603   1.4e-58  198.8  15.6   1   1   2.8e-61   2.2e-58  198.2  15.6     7   603     9   615     1   615 0.79 fgenesh1_kg.10_#_160_#_TRINITY_DN9991_c0_g1_i1
+Kircor1|Kircor1_270947 -            604 CotH_genes           -            603   1.5e-58  198.7  13.5   1   1   2.4e-61   1.9e-58  198.4  13.5     6   590     8   589     1   603 0.76 e_gw1.14.668.1
+Kircor1|Kircor1_333667 -            596 CotH_genes           -            603   5.1e-52  177.2  11.4   1   1   1.1e-54   8.6e-52  176.4  11.4     2   493     2   506     1   513 0.82 estExt_Genewise1Plus.C_290180
+Kircor1|Kircor1_324436 -            569 CotH_genes           -            603   8.3e-48  163.3  10.3   1   1   1.5e-50   1.1e-47  162.8  10.3    10   474    11   490     2   501 0.84 estExt_Genewise1Plus.C_9_t10327
+Kircor1|Kircor1_359093 -            600 CotH_genes           -            603   2.9e-47  161.5   6.1   1   2   3.5e-33   2.7e-30  105.4   0.9    12   273    18   283     6   309 0.82 fgenesh1_pg.18_#_88
+Kircor1|Kircor1_359093 -            600 CotH_genes           -            603   2.9e-47  161.5   6.1   2   2   3.9e-19     3e-16   59.1   0.4   292   474   345   526   313   592 0.80 fgenesh1_pg.18_#_88
+Kircor1|Kircor1_394866 -            606 CotH_genes           -            603   1.1e-46  159.6   2.7   1   2   1.4e-31   1.1e-28  100.2   0.7     8   282    13   292     7   321 0.85 fgenesh1_kg.60_#_135_#_TRINITY_DN3860_c0_g1_i1
+Kircor1|Kircor1_394866 -            606 CotH_genes           -            603   1.1e-46  159.6   2.7   2   2     3e-19   2.3e-16   59.4   0.1   288   480   358   551   341   598 0.84 fgenesh1_kg.60_#_135_#_TRINITY_DN3860_c0_g1_i1
+Kircor1|Kircor1_463723 -            578 CotH_genes           -            603   5.2e-46  157.3  10.9   1   2   4.8e-34   3.6e-31  108.3   4.5     8   303    12   316     5   341 0.82 estExt_fgenesh1_pg.C_30026
+Kircor1|Kircor1_463723 -            578 CotH_genes           -            603   5.2e-46  157.3  10.9   2   2   2.8e-17   2.1e-14   52.9   0.6   324   509   372   552   329   577 0.79 estExt_fgenesh1_pg.C_30026
+Kircor1|Kircor1_439248 -            591 CotH_genes           -            603   1.6e-43  149.2   9.6   1   1   2.8e-46   2.2e-43  148.7   9.6     7   473    11   489     4   497 0.82 MIX1929_487_100
+Kircor1|Kircor1_386667 -            573 CotH_genes           -            603   2.3e-43  148.6   6.4   1   1     4e-46     3e-43  148.2   6.4     6   474    10   492     5   511 0.83 fgenesh1_kg.30_#_64_#_TRINITY_DN460_c0_g2_i1
+Kircor1|Kircor1_400159 -            578 CotH_genes           -            603   5.8e-42  144.0   9.0   1   2   2.1e-32   1.6e-29  102.9   1.4    26   280     9   265     1   296 0.84 gm1.1257_g
+Kircor1|Kircor1_400159 -            578 CotH_genes           -            603   5.8e-42  144.0   9.0   2   2   4.8e-15   3.7e-12   45.5   1.5   324   533   351   565   280   577 0.77 gm1.1257_g
+Kircor1|Kircor1_369990 -            592 CotH_genes           -            603   1.1e-40  139.7   1.6   1   2   1.1e-30   8.2e-28   97.2   0.3    12   258    18   269     3   297 0.81 fgenesh1_kg.3_#_47_#_TRINITY_DN3695_c0_g1_i1
+Kircor1|Kircor1_369990 -            592 CotH_genes           -            603   1.1e-40  139.7   1.6   2   2   6.8e-14   5.2e-11   41.7   0.0   323   475   376   522   324   560 0.77 fgenesh1_kg.3_#_47_#_TRINITY_DN3695_c0_g1_i1
+Kircor1|Kircor1_300515 -            589 CotH_genes           -            603   1.2e-40  139.6  12.2   1   1   2.1e-43   1.6e-40  139.2  12.2     9   473    13   488     3   517 0.84 estExt_Genewise1.C_14_t10318
+Kircor1|Kircor1_394890 -            592 CotH_genes           -            603   1.1e-34  119.9   2.1   1   1   4.4e-37   3.4e-34  118.3   2.1    62   473    78   522    60   531 0.78 fgenesh1_kg.60_#_159_#_TRINITY_DN9303_c0_g1_i1
+Kircor1|Kircor1_277923 -            523 CotH_genes           -            603   3.7e-34  118.2   4.9   1   1   6.7e-37   5.1e-34  117.7   4.9    32   473     3   455     1   474 0.82 e_gw1.30.223.1
+Kircor1|Kircor1_319784 -            519 CotH_genes           -            603   9.2e-30  103.7   2.6   1   1   1.8e-32   1.4e-29  103.1   2.6    73   473    46   452    16   461 0.82 estExt_Genewise1Plus.C_3_t10194
+Kircor1|Kircor1_435648 -            585 CotH_genes           -            603   3.2e-29  101.9  10.5   1   1   5.4e-32   4.1e-29  101.5  10.5     2   482     2   497     1   510 0.78 fgenesh1_pm.47_#_45
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      HMM/CotH.hmm
+# Target file:     proteins/Kirkomyces_cordense_RSA_1222.Kircor1.v1.aa.fasta
+# Option settings: hmmsearch --domtblout results/CotH__Kirkomyces_cordense_RSA_1222.Kircor1.v1.aa.domtbl -E 1e-4 --cpu 4 HMM/CotH.hmm proteins/Kirkomyces_cordense_RSA_1222.Kircor1.v1.aa.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Mucorales_Virulence/CotH
+# Date:            Wed Jul 12 19:55:42 2017
+# [ok]

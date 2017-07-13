@@ -1,0 +1,33 @@
+#                                                                                        --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                    accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#            ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+HfasNRRL_2611|ctg_39.g1070.t1    -            600 CotH_genes           -            603  9.3e-241  800.2  13.9   1   1  1.3e-243    1e-240  800.1  13.9     4   602     5   599     1   600 0.95 -
+HfasNRRL_2611|ctg_566.g7696.t1   -            596 CotH_genes           -            603   4.6e-66  223.3   9.3   1   1   6.9e-69   5.6e-66  223.0   9.3     6   566     4   572     1   590 0.77 -
+HfasNRRL_2611|ctg_727.g8754.t1   -            555 CotH_genes           -            603   6.1e-61  206.4   5.9   1   1   8.8e-64   7.1e-61  206.1   5.9     9   526     8   538     1   553 0.79 -
+HfasNRRL_2611|ctg_397.g6254.t1   -            596 CotH_genes           -            603   6.9e-61  206.2   5.1   1   1     1e-63   8.4e-61  205.9   5.1     1   499     1   514     1   546 0.82 -
+HfasNRRL_2611|ctg_37.g1018.t1    -            591 CotH_genes           -            603   1.9e-59  201.4  14.7   1   1   2.7e-62   2.2e-59  201.2  14.7    12   561    14   569     1   589 0.81 -
+HfasNRRL_2611|ctg_79.g1924.t1    -            600 CotH_genes           -            603   1.3e-58  198.6   5.5   1   1   2.2e-61   1.7e-58  198.2   5.5     8   571     8   580     1   598 0.77 -
+HfasNRRL_2611|ctg_616.g8050.t1   -            626 CotH_genes           -            603   6.3e-58  196.4   0.2   1   1   9.9e-61     8e-58  196.1   0.2    20   532     6   520     2   623 0.79 -
+HfasNRRL_2611|ctg_140.g3052.t1   -           1344 CotH_genes           -            603   1.1e-57  195.6   4.4   1   2   1.4e-60   1.1e-57  195.6   4.4    11   545    10   555     1   617 0.77 -
+HfasNRRL_2611|ctg_140.g3052.t1   -           1344 CotH_genes           -            603   1.1e-57  195.6   4.4   2   2       2.2   1.8e+03   -3.3   0.1   532   556  1122  1146  1107  1158 0.75 -
+HfasNRRL_2611|ctg_1239.g10963.t1 -            543 CotH_genes           -            603   4.2e-54  183.8   0.8   1   1   5.8e-57   4.6e-54  183.6   0.8     1   497     1   513     1   543 0.80 -
+HfasNRRL_2611|ctg_23.g684.t1     -            631 CotH_genes           -            603   3.7e-53  180.7   0.5   1   1   6.1e-56   4.9e-53  180.3   0.5    17   535    16   539     2   629 0.81 -
+HfasNRRL_2611|ctg_889.g9624.t1   -            530 CotH_genes           -            603     1e-52  179.2   5.0   1   1   1.5e-55   1.2e-52  178.9   5.0    22   526     2   528     1   530 0.82 -
+HfasNRRL_2611|ctg_811.g9230.t1   -            570 CotH_genes           -            603   1.2e-47  162.4   5.4   1   1   1.9e-50   1.5e-47  162.1   5.4    21   482    58   531    50   569 0.83 -
+HfasNRRL_2611|ctg_1343.g11278.t1 -            630 CotH_genes           -            603   3.1e-46  157.8   0.9   1   1   5.8e-49   4.6e-46  157.2   0.9    15   479    14   489     1   534 0.80 -
+HfasNRRL_2611|ctg_240.g4530.t1   -            631 CotH_genes           -            603   3.1e-45  154.5   3.2   1   1   6.4e-48   5.2e-45  153.8   3.2    13   498    12   502     2   508 0.83 -
+HfasNRRL_2611|ctg_809.g9216.t1   -            425 CotH_genes           -            603   1.5e-21   76.3   0.2   1   3   3.5e-09   2.8e-06   25.8   0.1     6   122    11   139     6   170 0.75 -
+HfasNRRL_2611|ctg_809.g9216.t1   -            425 CotH_genes           -            603   1.5e-21   76.3   0.2   2   3     1e-15   8.4e-13   47.4   0.0   204   300   185   284   161   296 0.86 -
+HfasNRRL_2611|ctg_809.g9216.t1   -            425 CotH_genes           -            603   1.5e-21   76.3   0.2   3   3      0.49   3.9e+02   -1.1   0.0   403   466   298   361   288   364 0.82 -
+HfasNRRL_2611|ctg_210.g4112.t1   -            215 CotH_genes           -            603   6.7e-11   41.1   0.7   1   1   9.7e-14   7.8e-11   40.9   0.7    21   170    58   214    48   215 0.80 -
+HfasNRRL_2611|ctg_3451.g13250.t1 -            107 CotH_genes           -            603   3.6e-09   35.4   0.2   1   1     5e-12     4e-09   35.2   0.2   350   449     1   107     1   107 0.80 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      HMM/CotH.hmm
+# Target file:     proteins/Haplosporangium_fasciculatum_NRRL_2611.aa.fasta
+# Option settings: hmmsearch --domtblout results/CotH__Haplosporangium_fasciculatum_NRRL_2611.aa.domtbl -E 1e-4 --cpu 4 HMM/CotH.hmm proteins/Haplosporangium_fasciculatum_NRRL_2611.aa.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Mucorales_Virulence/CotH
+# Date:            Wed Jul 12 19:55:39 2017
+# [ok]

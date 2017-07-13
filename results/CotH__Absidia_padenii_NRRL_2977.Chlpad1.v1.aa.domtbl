@@ -1,0 +1,28 @@
+#                                                                              --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name          accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#  ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Chlpad1|Chlpad1_405926 -            603 CotH_genes           -            603    3e-275  914.1  12.6   1   1  3.9e-278  3.5e-275  913.9  12.6     1   600     1   599     1   602 0.94 estExt_Genewise1Plus.C_490027
+Chlpad1|Chlpad1_459931 -            575 CotH_genes           -            603  1.1e-260  866.0  13.4   1   1  1.5e-263  1.3e-260  865.8  13.4    10   578    10   571     5   575 0.96 fgenesh1_pm.5_#_128
+Chlpad1|Chlpad1_439978 -            520 CotH_genes           -            603  5.9e-220  731.5  13.9   1   1  8.2e-223  7.4e-220  731.2  13.9    20   527    19   515     3   519 0.97 fgenesh1_kg.36_#_83_#_TRINITY_DN1447_c0_g1_i1
+Chlpad1|Chlpad1_354263 -            521 CotH_genes           -            603  1.8e-194  647.3   7.2   1   1  2.3e-197  2.1e-194  647.1   7.2    13   528    11   517     1   520 0.94 e_gw1.14.300.1
+Chlpad1|Chlpad1_381437 -            614 CotH_genes           -            603   4.1e-53  180.5   6.4   1   1   5.8e-56   5.2e-53  180.1   6.4     1   594     1   602     1   613 0.77 estExt_Genewise1.C_260151
+Chlpad1|Chlpad1_358342 -            631 CotH_genes           -            603     3e-51  174.3   8.5   1   1   5.1e-54   4.6e-51  173.7   8.5     1   560     1   603     1   619 0.76 e_gw1.23.299.1
+Chlpad1|Chlpad1_472528 -            599 CotH_genes           -            603   6.5e-48  163.3   0.1   1   1   9.5e-51   8.5e-48  162.9   0.1     9   528    12   561     5   582 0.80 gm1.8229_g
+Chlpad1|Chlpad1_369496 -            599 CotH_genes           -            603   3.4e-46  157.7   0.4   1   1   5.4e-49   4.8e-46  157.1   0.4     9   533    12   546     2   578 0.80 estExt_Genewise1.C_4_t10478
+Chlpad1|Chlpad1_420766 -            567 CotH_genes           -            603   4.9e-44  150.5   1.5   1   1   7.2e-47   6.5e-44  150.1   1.5     3   477     5   485     3   492 0.84 fgenesh1_kg.8_#_375_#_TRINITY_DN2006_c0_g1_i1
+Chlpad1|Chlpad1_466637 -            575 CotH_genes           -            603     1e-42  146.2   0.3   1   1   1.4e-45   1.2e-42  145.9   0.3    32   525     3   501     1   517 0.83 gm1.2338_g
+Chlpad1|Chlpad1_136476 -            528 CotH_genes           -            603     3e-41  141.3   0.3   1   1   4.2e-44   3.8e-41  141.0   0.3    34   472     3   443     1   448 0.86 CE136269_1594
+Chlpad1|Chlpad1_424213 -            554 CotH_genes           -            603     4e-39  134.3   3.3   1   1   5.9e-42   5.3e-39  133.9   3.3     6   480     9   478     1   491 0.84 fgenesh1_kg.11_#_141_#_TRINITY_DN8828_c0_g2_i1
+Chlpad1|Chlpad1_365977 -            500 CotH_genes           -            603   8.1e-34  116.8   2.0   1   1   3.9e-36   3.5e-33  114.7   2.0   110   486    10   415     1   424 0.77 estExt_Genewise1.C_1_t20493
+Chlpad1|Chlpad1_360105 -            539 CotH_genes           -            603   1.3e-33  116.1   1.5   1   1   1.9e-36   1.7e-33  115.7   1.5    73   483    40   463    14   469 0.83 e_gw1.30.218.1
+Chlpad1|Chlpad1_518652 -            615 CotH_genes           -            603     4e-33  114.5  10.1   1   1   5.3e-36   4.7e-33  114.2   9.6    74   482   114   533    59   550 0.83 estExt_Genemark1.C_430076
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      HMM/CotH.hmm
+# Target file:     proteins/Absidia_padenii_NRRL_2977.Chlpad1.v1.aa.fasta
+# Option settings: hmmsearch --domtblout results/CotH__Absidia_padenii_NRRL_2977.Chlpad1.v1.aa.domtbl -E 1e-4 --cpu 4 HMM/CotH.hmm proteins/Absidia_padenii_NRRL_2977.Chlpad1.v1.aa.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Mucorales_Virulence/CotH
+# Date:            Wed Jul 12 19:55:32 2017
+# [ok]

@@ -1,0 +1,18 @@
+#                                                                               --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name           accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#   ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Spifus1|Spifus1_1764782 -            641 CotH_genes           -            603   1.1e-48  165.5  11.5   1   1   6.7e-52   1.4e-48  165.1  11.5     8   587    39   627    30   639 0.77 fgenesh1_kg.6_#_1372_#_TRINITY_DN7077_c0_g1_i4
+Spifus1|Spifus1_1801617 -            546 CotH_genes           -            603   8.8e-47  159.2   2.6   1   1   5.3e-50   1.1e-46  158.9   2.6     6   523     7   536     1   544 0.80 fgenesh1_kg.27_#_100_#_TRINITY_DN2119_c0_g2_i1
+Spifus1|Spifus1_1958294 -            548 CotH_genes           -            603   1.7e-46  158.2   0.3   1   1   9.8e-50     2e-46  158.0   0.3     7   482     7   508     1   546 0.81 estExt_fgenesh1_pg.C_520021
+Spifus1|Spifus1_1824225 -            586 CotH_genes           -            603   2.6e-36  124.6   9.2   1   1   1.8e-39   3.6e-36  124.1   9.2     6   493    11   524     6   532 0.73 fgenesh1_kg.46_#_341_#_TRINITY_DN5399_c0_g1_i3
+Spifus1|Spifus1_1782365 -            612 CotH_genes           -            603   6.8e-31  106.7   4.0   1   1   3.3e-32   6.8e-29  100.1   4.0    52   475    65   535    14   550 0.73 fgenesh1_kg.14_#_1465_#_TRINITY_DN4272_c0_g1_i3
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      HMM/CotH.hmm
+# Target file:     proteins/Spinellus_fusiger_NRRL_22323.Spifus1.v1.aa.fasta
+# Option settings: hmmsearch --domtblout results/CotH__Spinellus_fusiger_NRRL_22323.Spifus1.v1.aa.domtbl -E 1e-4 --cpu 4 HMM/CotH.hmm proteins/Spinellus_fusiger_NRRL_22323.Spifus1.v1.aa.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Mucorales_Virulence/CotH
+# Date:            Wed Jul 12 19:56:15 2017
+# [ok]

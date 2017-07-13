@@ -1,0 +1,22 @@
+#                                                                                     --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                 accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#         ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+MbelKOD_1040|ctg_257.g2070.t1 -            470 CotH_genes           -            603  5.3e-188  625.1   7.4   1   1  6.9e-191  6.3e-188  624.9   7.4   120   569     2   448     1   467 0.96 -
+MbelKOD_1040|ctg_411.g2773.t1 -            606 CotH_genes           -            603   1.5e-59  200.9   8.0   1   1   1.9e-62   1.7e-59  200.7   8.0     9   527     8   534     1   601 0.80 -
+MbelKOD_1040|ctg_66.g758.t1   -            624 CotH_genes           -            603   2.5e-53  180.3   1.2   1   1   7.4e-56   6.8e-53  178.9   1.2    13   582    12   596     1   624 0.75 -
+MbelKOD_1040|ctg_596.g3479.t1 -            921 CotH_genes           -            603   3.4e-53  179.9   9.5   1   1   4.7e-56   4.3e-53  179.5   9.5     9   528     7   539     1   613 0.76 -
+MbelKOD_1040|ctg_832.g4198.t1 -            722 CotH_genes           -            603   9.4e-52  175.1  11.0   1   1   1.4e-54   1.3e-51  174.7  11.0    19   555   149   696   142   708 0.78 -
+MbelKOD_1040|ctg_830.g4190.t1 -            487 CotH_genes           -            603   1.9e-51  174.1   2.4   1   1   2.6e-54   2.4e-51  173.8   2.4    73   511    29   470     7   485 0.81 -
+MbelKOD_1040|ctg_83.g905.t1   -           1003 CotH_genes           -            603   4.7e-47  159.6   4.2   1   1   7.5e-50   6.9e-47  159.1   4.2    19   497   427   929   415   980 0.77 -
+MbelKOD_1040|ctg_968.g4556.t1 -            712 CotH_genes           -            603   1.5e-25   88.6  42.6   1   2   2.3e-21   2.1e-18   65.0  14.3    12   376    11   405     2   411 0.69 -
+MbelKOD_1040|ctg_968.g4556.t1 -            712 CotH_genes           -            603   1.5e-25   88.6  42.6   2   2   6.9e-10   6.3e-07   27.1  20.3   425   588   480   664   469   711 0.63 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      HMM/CotH.hmm
+# Target file:     proteins/Mortierella_beljakovae_KOD_1040.aa.fasta
+# Option settings: hmmsearch --domtblout results/CotH__Mortierella_beljakovae_KOD_1040.aa.domtbl -E 1e-4 --cpu 4 HMM/CotH.hmm proteins/Mortierella_beljakovae_KOD_1040.aa.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Mucorales_Virulence/CotH
+# Date:            Wed Jul 12 19:55:47 2017
+# [ok]

@@ -1,0 +1,19 @@
+#                                                                             --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name         accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+# ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+N165|N165.mRNA.2507.1 -            600 CotH_genes           -            603  1.6e-214  712.7  15.3   1   1  1.2e-217  1.9e-214  712.5  15.3     5   599     4   589     1   597 0.93 -
+N165|N165.mRNA.6680.1 -            526 CotH_genes           -            603   8.3e-66  221.6   2.4   1   1   6.6e-69   9.9e-66  221.3   2.4     8   527    10   524     3   525 0.85 -
+N165|N165.mRNA.2339.1 -            659 CotH_genes           -            603   1.8e-61  207.3  10.3   1   1   1.5e-64   2.3e-61  206.9  10.3    12   587    68   646    59   658 0.80 -
+N165|N165.mRNA.1218.1 -            566 CotH_genes           -            603   1.3e-40  138.4   7.2   1   1   1.2e-43   1.8e-40  137.9   7.2     1   482     1   492     1   509 0.83 -
+N165|N165.mRNA.6491.1 -            788 CotH_genes           -            603   7.5e-35  119.3   6.5   1   2   8.8e-15   1.3e-11   42.5   0.1    13   216   285   496   276   512 0.78 -
+N165|N165.mRNA.6491.1 -            788 CotH_genes           -            603   7.5e-35  119.3   6.5   2   2   1.1e-25   1.6e-22   78.6   2.6   308   546   547   780   498   786 0.73 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      HMM/CotH.hmm
+# Target file:     proteins/Umbelopsis_isabellina_B7317.N165.v1.aa.fasta
+# Option settings: hmmsearch --domtblout results/CotH__Umbelopsis_isabellina_B7317.N165.v1.aa.domtbl -E 1e-4 --cpu 4 HMM/CotH.hmm proteins/Umbelopsis_isabellina_B7317.N165.v1.aa.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Mucorales_Virulence/CotH
+# Date:            Wed Jul 12 19:56:17 2017
+# [ok]

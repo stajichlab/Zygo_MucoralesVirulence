@@ -1,0 +1,33 @@
+#                                                                                           --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                       accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#               ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+CCTCCM201021|chinensis.mRNA.15492.1 -            604 CotH_genes           -            603         0 1100.9  16.6   1   1         0         0 1100.6  16.6     1   602     1   601     1   602 0.97 -
+CCTCCM201021|chinensis.mRNA.13933.1 -            604 CotH_genes           -            603         0 1099.6  16.8   1   1         0         0 1099.5  16.8     1   602     1   601     1   603 0.97 -
+CCTCCM201021|chinensis.mRNA.10623.1 -            602 CotH_genes           -            603  1.7e-279  928.4  13.9   1   1  2.3e-282  2.1e-279  928.1  13.9     1   603     1   598     1   598 0.95 -
+CCTCCM201021|chinensis.mRNA.16907.1 -            588 CotH_genes           -            603  1.7e-274  911.9  13.0   1   1  2.3e-277  2.1e-274  911.6  13.0     1   584     1   578     1   584 0.95 -
+CCTCCM201021|chinensis.mRNA.9936.1  -            526 CotH_genes           -            603  2.2e-222  739.8   9.6   1   1  2.7e-225  2.4e-222  739.7   9.6     8   529     8   524     1   525 0.96 -
+CCTCCM201021|chinensis.mRNA.8540.1  -            526 CotH_genes           -            603  6.8e-221  734.9   9.5   1   1  8.3e-224  7.5e-221  734.8   9.5     6   529     6   524     1   525 0.97 -
+CCTCCM201021|chinensis.mRNA.15511.1 -            624 CotH_genes           -            603   1.1e-59  202.5  17.0   1   1   1.3e-62   1.2e-59  202.3  17.0     1   598     1   617     1   623 0.78 -
+CCTCCM201021|chinensis.mRNA.15512.1 -            559 CotH_genes           -            603   6.9e-55  186.6   8.1   1   1   9.1e-58   8.3e-55  186.4   8.1     5   528     8   539     1   552 0.85 -
+CCTCCM201021|chinensis.mRNA.16884.1 -           1278 CotH_genes           -            603   2.3e-40  138.7   3.6   1   1   3.6e-43   3.3e-40  138.1   3.6    30   473   727  1170   697  1177 0.85 -
+CCTCCM201021|chinensis.mRNA.7895.1  -            547 CotH_genes           -            603   2.6e-39  135.2   4.8   1   1   3.3e-42     3e-39  135.0   4.8     6   476    11   489     1   544 0.80 -
+CCTCCM201021|chinensis.mRNA.8374.1  -            561 CotH_genes           -            603   9.5e-39  133.3   1.3   1   1   1.3e-41   1.2e-38  133.0   1.3     8   473     3   480     1   486 0.83 -
+CCTCCM201021|chinensis.mRNA.7897.1  -            561 CotH_genes           -            603   1.4e-38  132.8   0.6   1   1     2e-41   1.8e-38  132.4   0.6     8   473     3   480     1   486 0.84 -
+CCTCCM201021|chinensis.mRNA.8372.1  -            547 CotH_genes           -            603     7e-38  130.5   5.3   1   1   9.9e-41   9.1e-38  130.1   5.3     6   477     6   490     1   503 0.78 -
+CCTCCM201021|chinensis.mRNA.7417.1  -           1206 CotH_genes           -            603     8e-38  130.3   4.9   1   1   1.3e-40   1.2e-37  129.7   4.9    32   473   657  1098   648  1104 0.85 -
+CCTCCM201021|chinensis.mRNA.12440.1 -            595 CotH_genes           -            603   3.3e-33  115.0   3.6   1   1     5e-36   4.5e-33  114.6   3.6    18   473    27   500    12   513 0.78 -
+CCTCCM201021|chinensis.mRNA.6428.1  -            595 CotH_genes           -            603   2.6e-31  108.7   3.7   1   1     4e-34   3.6e-31  108.3   3.7    18   473    27   500    12   513 0.77 -
+CCTCCM201021|chinensis.mRNA.9601.1  -            685 CotH_genes           -            603   2.3e-23   82.5   3.5   1   3    0.0012       1.1    7.6   0.0    14   152    21   173     7   185 0.72 -
+CCTCCM201021|chinensis.mRNA.9601.1  -            685 CotH_genes           -            603   2.3e-23   82.5   3.5   2   3   7.9e-12   7.2e-09   34.6   0.0   198   283   189   273   181   280 0.86 -
+CCTCCM201021|chinensis.mRNA.9601.1  -            685 CotH_genes           -            603   2.3e-23   82.5   3.5   3   3   2.4e-13   2.2e-10   39.6   0.6   330   475   346   496   312   607 0.85 -
+CCTCCM201021|chinensis.mRNA.6121.1  -            609 CotH_genes           -            603   1.6e-19   69.8   0.1   1   1   2.5e-22   2.3e-19   69.3   0.1     9   283   227   516   176   522 0.81 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      HMM/CotH.hmm
+# Target file:     proteins/Rhizopus_microsporus_var_chinensis_CCTCCM201021.CCTCCM201021.v1.aa.fasta
+# Option settings: hmmsearch --domtblout results/CotH__Rhizopus_microsporus_var_chinensis_CCTCCM201021.CCTCCM201021.v1.aa.domtbl -E 1e-4 --cpu 4 HMM/CotH.hmm proteins/Rhizopus_microsporus_var_chinensis_CCTCCM201021.CCTCCM201021.v1.aa.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Mucorales_Virulence/CotH
+# Date:            Wed Jul 12 19:56:10 2017
+# [ok]
