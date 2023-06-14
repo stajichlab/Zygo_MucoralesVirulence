@@ -20,7 +20,7 @@ N164|N164.mRNA.9090.1  -            624 CotH_genes           -            603   
 # Pipeline mode:   SEARCH
 # Query file:      HMM/CotH.hmm
 # Target file:     proteins/Mortierella_alpina_B6842.N164.v1.aa.fasta
-# Option settings: hmmsearch --domtblout results/CotH__Mortierella_alpina_B6842.N164.v1.aa.domtbl -E 1e-4 --cpu 4 HMM/CotH.hmm proteins/Mortierella_alpina_B6842.N164.v1.aa.fasta 
-# Current dir:     /bigdata/stajichlab/shared/projects/Mucorales_Virulence/CotH
-# Date:            Wed Jul 12 19:55:45 2017
+# Option settings: hmmsearch --domtblout results/CotH__Mortierella_alpina_B6842.N164.v1.aa.domtbl -E 1e-4 --cpu 2 HMM/CotH.hmm proteins/Mortierella_alpina_B6842.N164.v1.aa.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/Mucorales_Virulence
+# Date:            Wed Jul 12 20:33:54 2017
 # [ok]

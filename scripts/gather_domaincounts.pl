@@ -18,10 +18,11 @@ my $cutoff = 1e-4;
 my $seqdb;
 my $speciesorder;
 my $verbose;
-
+my $outseqs;
 GetOptions('help|?'    => \$help, man => \$man,
 	   'i|input:s' => \$indir,
-           'o|out:s'     => \$out,
+           't|table:s'     => \$out,
+	   'os|outdir:s' => \$outseqs,
 	   'v|verbose!'  => \$verbose,
 	   'd|domain|domainout:s' => \$domaindir,
 	   'c|cutoff|evalue:s' => \$cutoff,
@@ -37,6 +38,10 @@ mkdir($domaindir) unless -d $domaindir;
 
 if ( $ext !~ /^\./) {
   $ext = '.'. $ext;
+}
+
+if( $seqdb ) {
+    `cdbfasta $seqdb`;
 }
 
 my (%table, %specieset);
